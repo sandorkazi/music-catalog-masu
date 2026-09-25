@@ -2090,12 +2090,6 @@
       "status": "ok"
     },
     {
-      "id": "5wzS5V1MfqazhEWYKEE4GL",
-      "name": "Ghymes",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
       "id": "2dGBswGV32KX6Dm05YNJHm",
       "name": "Ghymes",
       "aliases": [],
@@ -5614,12 +5608,6 @@
       "status": "ok"
     },
     {
-      "id": "5PsK4F9g4j4sSXQ8MCpbgV",
-      "name": "Pain",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
       "id": "5eTq3PxbOh5vgeRXKNqPyV",
       "name": "The Runaways",
       "aliases": [],
@@ -6355,12 +6343,6 @@
       "status": "ok"
     },
     {
-      "id": "youtube:party-favor",
-      "name": "Party Favor",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
       "id": "youtube:fiona-apple",
       "name": "Fiona Apple",
       "aliases": [],
@@ -6403,12 +6385,6 @@
       "status": "ok"
     },
     {
-      "id": "youtube:kings-of-leon",
-      "name": "Kings Of Leon",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
       "id": "youtube:rozi-plain",
       "name": "Rozi Plain",
       "aliases": [],
@@ -6429,14 +6405,6 @@
       "status": "ok"
     },
     {
-      "id": "youtube:dvbbs",
-      "name": "DVBBS",
-      "aliases": [
-        "Borgeous"
-      ],
-      "status": "ok"
-    },
-    {
       "id": "youtube:borgeous",
       "name": "Borgeous",
       "aliases": [],
@@ -6449,12 +6417,6 @@
       "status": "ok"
     },
     {
-      "id": "youtube:måneskin",
-      "name": "Måneskin",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
       "id": "youtube:steppenwolf",
       "name": "Steppenwolf",
       "aliases": [],
@@ -6463,12 +6425,6 @@
     {
       "id": "youtube:elmer-bernstein",
       "name": "Elmer Bernstein",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
-      "id": "youtube:infected-mushroom",
-      "name": "Infected Mushroom",
       "aliases": [],
       "status": "ok"
     },
@@ -6487,12 +6443,6 @@
     {
       "id": "youtube:jet",
       "name": "Jet",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
-      "id": "youtube:the-white-stripes",
-      "name": "The White Stripes",
       "aliases": [],
       "status": "ok"
     },
@@ -6594,12 +6544,6 @@
     {
       "id": "youtube:abba",
       "name": "ABBA",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
-      "id": "youtube:electric-callboy",
-      "name": "Electric Callboy",
       "aliases": [],
       "status": "ok"
     },
@@ -6720,20 +6664,8 @@
       "status": "ok"
     },
     {
-      "id": "youtube:turmion-kätilöt",
-      "name": "TURMION KÄTILÖT",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
       "id": "youtube:rage-against-the-machine",
       "name": "Rage Against The Machine",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
-      "id": "youtube:ossian",
-      "name": "Ossian",
       "aliases": [],
       "status": "ok"
     },
@@ -6758,12 +6690,6 @@
     {
       "id": "youtube:antti-paalanen",
       "name": "Antti Paalanen",
-      "aliases": [],
-      "status": "ok"
-    },
-    {
-      "id": "youtube:skáld",
-      "name": "SKÁLD",
       "aliases": [],
       "status": "ok"
     },
@@ -12275,7 +12201,7 @@
     },
     {
       "id": "1ZMIbCyPQWmPbKkc1g4r6o",
-      "artist_id": "5wzS5V1MfqazhEWYKEE4GL",
+      "artist_id": "2dGBswGV32KX6Dm05YNJHm",
       "title": "Csillagreggae",
       "source": "spotify",
       "popularity": 11,
@@ -21669,7 +21595,7 @@
     },
     {
       "id": "0jlZ51T0YYSrG7J38II8Af",
-      "artist_id": "5PsK4F9g4j4sSXQ8MCpbgV",
+      "artist_id": "0hGpZy6ws8FofByMkt0CV1",
       "title": "Midgets With Guns",
       "source": "spotify",
       "popularity": 16,
@@ -21680,7 +21606,7 @@
     },
     {
       "id": "5Ht9968dW5h9tNnW7PbmLZ",
-      "artist_id": "5PsK4F9g4j4sSXQ8MCpbgV",
+      "artist_id": "0hGpZy6ws8FofByMkt0CV1",
       "title": "Jabberjaw Running Under Water",
       "source": "spotify",
       "popularity": 41,
@@ -23131,7 +23057,7 @@
     },
     {
       "id": "youtube:AnycCuYSW7A",
-      "artist_id": "youtube:party-favor",
+      "artist_id": "7yPPzu5UdAK7yagQqjEZQm",
       "title": "Wasabi",
       "source": "youtube",
       "popularity": 0,
@@ -23243,7 +23169,7 @@
     },
     {
       "id": "youtube:RF0HhrwIwp0",
-      "artist_id": "youtube:kings-of-leon",
+      "artist_id": "2qk9voo8llSGYcZ6xrBzKx",
       "title": "Sex on Fire",
       "source": "youtube",
       "popularity": 0,
@@ -23285,7 +23211,7 @@
     },
     {
       "id": "youtube:Y-VwSUfPJco",
-      "artist_id": "youtube:dvbbs",
+      "artist_id": "5X4LWwbUFNzPkEas04uU82",
       "title": "Tsunami",
       "source": "youtube",
       "popularity": 0,
@@ -23313,7 +23239,7 @@
     },
     {
       "id": "youtube:yOb9Xaug35M",
-      "artist_id": "youtube:måneskin",
+      "artist_id": "0lAWpj5szCSwM4rUMHYmrr",
       "title": "I WANNA BE YOUR SLAVE",
       "source": "youtube",
       "popularity": 0,
@@ -23355,7 +23281,7 @@
     },
     {
       "id": "youtube:GiXlhwI5xHQ",
-      "artist_id": "youtube:infected-mushroom",
+      "artist_id": "6S2tas4z6DyIklBajDqJxI",
       "title": "Never Mind",
       "source": "youtube",
       "popularity": 0,
@@ -23411,7 +23337,7 @@
     },
     {
       "id": "youtube:K4dx42YzQCE",
-      "artist_id": "youtube:the-white-stripes",
+      "artist_id": "4F84IBURUo98rz4r61KF70",
       "title": "The Hardest Button To Button",
       "source": "youtube",
       "popularity": 0,
@@ -23607,7 +23533,7 @@
     },
     {
       "id": "youtube:BiP0FpY88E4",
-      "artist_id": "youtube:electric-callboy",
+      "artist_id": "1WNoKxsp715jez1Td4vthc",
       "title": "ELEVATOR OPERATOR",
       "source": "youtube",
       "popularity": 0,
@@ -23761,7 +23687,7 @@
     },
     {
       "id": "youtube:D1NdGBldg3w",
-      "artist_id": "youtube:electric-callboy",
+      "artist_id": "1WNoKxsp715jez1Td4vthc",
       "title": "WE GOT THE MOVES",
       "source": "youtube",
       "popularity": 0,
@@ -23901,7 +23827,7 @@
     },
     {
       "id": "youtube:OQdyZ6QPteY",
-      "artist_id": "youtube:turmion-kätilöt",
+      "artist_id": "76t3VPzCEYAlrZhVAY7yjg",
       "title": "Pulssi",
       "source": "youtube",
       "popularity": 0,
@@ -23929,7 +23855,7 @@
     },
     {
       "id": "youtube:M_gf5eNdeBU",
-      "artist_id": "youtube:ossian",
+      "artist_id": "52spPXU6EzdqT0TT1WuAWx",
       "title": "Ősök vére - Titkos Ünnep album",
       "source": "youtube",
       "popularity": 0,
@@ -23999,7 +23925,7 @@
     },
     {
       "id": "youtube:s9NIBZfVBW4",
-      "artist_id": "youtube:skáld",
+      "artist_id": "3uliAYf4KyTkBpVf3BiWVv",
       "title": "Rún",
       "source": "youtube",
       "popularity": 0,

@@ -9,7 +9,9 @@
    "pop": 66.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 79.6,
+   "y": 73.1
   },
   {
    "id": "0GOx72r5AAEKRGQFn3xqXK",
@@ -20,7 +22,9 @@
    "pop": 36.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 119.0,
+   "y": 81.1
   },
   {
    "id": "5PdkRVDASsw6P7QoqRpz0F",
@@ -31,7 +35,9 @@
    "pop": 55.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 198.3,
+   "y": 66.3
   },
   {
    "id": "5tFuUOO2a75KL5MXvplfhQ",
@@ -42,7 +48,9 @@
    "pop": 52.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 227.0,
+   "y": 80.5
   },
   {
    "id": "5SaDyTQkjAAdrsmhPzrmw2",
@@ -53,7 +61,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 313.8,
+   "y": 61.4
   },
   {
    "id": "4OAddazJM576euUnFSvXSL",
@@ -64,7 +74,9 @@
    "pop": 40.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 332.6,
+   "y": 81.2
   },
   {
    "id": "4xNadaO5ZZLVJdqDIVVIua",
@@ -75,7 +87,9 @@
    "pop": 5.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 402.3,
+   "y": 71.9
   },
   {
    "id": "2ztj3MdrAuEMrU1P4HrZwH",
@@ -86,7 +100,9 @@
    "pop": 41.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 434.8,
+   "y": 83.9
   },
   {
    "id": "4wAhu2hcNg0plpngwze5FN",
@@ -97,7 +113,9 @@
    "pop": 10.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 506.9,
+   "y": 73.2
   },
   {
    "id": "6s6x6p9qZFaPfeALpVvcpR",
@@ -108,7 +126,9 @@
    "pop": 29.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 575.1,
+   "y": 64.7
   },
   {
    "id": "7G1GBhoKtEPnP86X2PvEYO",
@@ -119,7 +139,9 @@
    "pop": 66.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 607.6,
+   "y": 76.7
   },
   {
    "id": "4JNF6YOUi69O4zAdwQVGLY",
@@ -130,7 +152,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 680.8,
+   "y": 65.4
   },
   {
    "id": "38dW24ZxoRfXGe1lJXXFNg",
@@ -141,7 +165,9 @@
    "pop": 26.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 712.7,
+   "y": 77.7
   },
   {
    "id": "3hvgLXeDFNiqDOVXl0xTge",
@@ -152,7 +178,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 781.8,
+   "y": 68.7
   },
   {
    "id": "1QGGbVQUyQPNKGH6eZd2yG",
@@ -163,7 +191,9 @@
    "pop": 35.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 829.0,
+   "y": 72.3
   },
   {
    "id": "0WHhPa7TmqQASabtpYsa5J",
@@ -174,7 +204,9 @@
    "pop": 35.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 879.7,
+   "y": 73.9
   },
   {
    "id": "5fpD3Iuy3RvPzcbWiekX7h",
@@ -185,7 +217,9 @@
    "pop": 12.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 941.9,
+   "y": 68.8
   },
   {
    "id": "056E4z3dLY3NlRs1w0YW5y",
@@ -196,7 +230,9 @@
    "pop": 33.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 999.9,
+   "y": 66.2
   },
   {
    "id": "05fG473iIaoy82BF1aGhL8",
@@ -207,7 +243,9 @@
    "pop": 74.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1064.2,
+   "y": 60.0
   },
   {
    "id": "0BEI7i5sgUuivcfwXLzFmM",
@@ -218,7 +256,9 @@
    "pop": 1.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1114.8,
+   "y": 61.6
   },
   {
    "id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
@@ -229,7 +269,9 @@
    "pop": 63.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1138.9,
+   "y": 78.4
   },
   {
    "id": "0GfEaY7TDNHkSPEFSv7unT",
@@ -240,7 +282,9 @@
    "pop": 30.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1212.2,
+   "y": 67.0
   },
   {
    "id": "0Gw3a3BkWLwsMLFbOBmo6Q",
@@ -251,7 +295,9 @@
    "pop": 12.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1258.5,
+   "y": 71.1
   },
   {
    "id": "0qT79UgT5tY4yudH9VfsdT",
@@ -262,7 +308,9 @@
    "pop": 76.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1313.5,
+   "y": 70.2
   },
   {
    "id": "0tfnDOJ5a2ib3mHAI4qGyD",
@@ -273,7 +321,9 @@
    "pop": 43.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1369.2,
+   "y": 68.9
   },
   {
    "id": "4KL9W3Y0keGcIdRuX2TkRN",
@@ -284,7 +334,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1411.6,
+   "y": 75.2
   },
   {
    "id": "4w13ZzSzpI5O5Jz5mNhf4X",
@@ -295,7 +347,9 @@
    "pop": 37.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1465.1,
+   "y": 75.1
   },
   {
    "id": "0NJ6wlOAsAJ1PN4VRdTPKA",
@@ -306,7 +360,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1519.7,
+   "y": 74.5
   },
   {
    "id": "3544ImlskUwZqWJTmqWUsa",
@@ -317,7 +373,9 @@
    "pop": 39.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 86.9,
+   "y": 99.5
   },
   {
    "id": "2N0vFuOoMtAQfBmhsRo24e",
@@ -328,7 +386,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 130.7,
+   "y": 105.0
   },
   {
    "id": "0ImEDe9tW5n4pxHOK39zIc",
@@ -339,7 +399,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 171.7,
+   "y": 112.1
   },
   {
    "id": "0IdWx63RAlOm5W5iOKPesn",
@@ -350,7 +412,9 @@
    "pop": 13.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 246.0,
+   "y": 100.2
   },
   {
    "id": "01oX6jHYsrwwoZE33DTTaY",
@@ -361,7 +425,9 @@
    "pop": 24.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 279.1,
+   "y": 111.8
   },
   {
    "id": "0blJzvevdXrp21YeI2vbco",
@@ -372,7 +438,9 @@
    "pop": 65.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 365.5,
+   "y": 92.9
   },
   {
    "id": "0dKTZGtRhs5pdyOt8uiuSY",
@@ -383,7 +451,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 399.5,
+   "y": 104.0
   },
   {
    "id": "0fLXjcDroHESf6i3iUpNDA",
@@ -394,7 +464,9 @@
    "pop": 26.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 438.4,
+   "y": 112.3
   },
   {
    "id": "7jxJ25p0pPjk0MStloN6o6",
@@ -405,7 +477,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 526.3,
+   "y": 92.6
   },
   {
    "id": "0QByA8eXXasgGpYEFwgnI6",
@@ -416,7 +490,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 540.7,
+   "y": 114.9
   },
   {
    "id": "3O4xHzuHaiM4UVNlSd44xK",
@@ -427,7 +503,9 @@
    "pop": 28.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 626.8,
+   "y": 96.3
   },
   {
    "id": "3YcBF2ttyueytpXtEzn1Za",
@@ -438,7 +516,9 @@
    "pop": 56.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 675.8,
+   "y": 98.8
   },
   {
    "id": "4F84IBURUo98rz4r61KF70",
@@ -450,7 +530,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 702.7,
+   "y": 114.0
   },
   {
    "id": "0c44C54LrAHha0u92agfHM",
@@ -461,7 +543,9 @@
    "pop": 16.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 760.1,
+   "y": 111.7
   },
   {
    "id": "40Mez3T0kn5OLe0dN1xUJj",
@@ -472,7 +556,9 @@
    "pop": 33.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 817.7,
+   "y": 109.3
   },
   {
    "id": "4Fh6eC8hJz13eXsboxXlcX",
@@ -483,7 +569,9 @@
    "pop": 24.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 875.4,
+   "y": 106.9
   },
   {
    "id": "6VFYPM0VzZl96zLNSLlUIS",
@@ -494,7 +582,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 955.7,
+   "y": 91.5
   },
   {
    "id": "5G4C2cJu2dxvgwDSh1FI3b",
@@ -505,7 +595,9 @@
    "pop": 27.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 978.5,
+   "y": 109.0
   },
   {
    "id": "0EyuKHE1AeE9lWUF8mzKVp",
@@ -516,7 +608,9 @@
    "pop": 27.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1060.2,
+   "y": 92.8
   },
   {
    "id": "0DrXhci3WAyo0WJv1RBOG6",
@@ -527,7 +621,9 @@
    "pop": 58.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1111.6,
+   "y": 94.0
   },
   {
    "id": "0DGqabk3gsZWS8zEdgt1m5",
@@ -538,7 +634,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1165.3,
+   "y": 93.8
   },
   {
    "id": "0A2YaO4tUFeJVNn5Hvjfxa",
@@ -549,7 +647,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1220.4,
+   "y": 92.9
   },
   {
    "id": "0CF71zaDOJWCynIkW9bSK8",
@@ -560,7 +660,9 @@
    "pop": 60.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1267.0,
+   "y": 96.8
   },
   {
    "id": "5vbtZfRJjn2QLhPhtYpiqi",
@@ -571,7 +673,9 @@
    "pop": 55.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1310.7,
+   "y": 102.3
   },
   {
    "id": "7JDSHlDdVTo7aZKdQZ53Vf",
@@ -582,7 +686,9 @@
    "pop": 60.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1372.7,
+   "y": 97.4
   },
   {
    "id": "014v7wyYEzOsxoWbiqXFOA",
@@ -593,7 +699,9 @@
    "pop": 22.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1436.9,
+   "y": 91.3
   },
   {
    "id": "0CEFCo8288kQU7mJi25s6E",
@@ -604,7 +712,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1452.3,
+   "y": 113.0
   },
   {
    "id": "03JCAEDSJwcDFskWvPavso",
@@ -615,7 +725,9 @@
    "pop": 29.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1535.9,
+   "y": 95.7
   },
   {
    "id": "08RaUMtreeTHss1QsLkfPe",
@@ -626,7 +738,9 @@
    "pop": 32.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 84.3,
+   "y": 131.5
   },
   {
    "id": "0539gq2LM2VDs01rp8gnGz",
@@ -637,7 +751,9 @@
    "pop": 50.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 134.0,
+   "y": 133.7
   },
   {
    "id": "000BblCiHJeKvtiq5aiHOs",
@@ -648,7 +764,9 @@
    "pop": 25.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 188.5,
+   "y": 133.1
   },
   {
    "id": "7Ip1eXTDPgmMib2tTiJCyG",
@@ -659,7 +777,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 229.2,
+   "y": 140.4
   },
   {
    "id": "1CxpnYE5gYbAXaWVDnCTGe",
@@ -670,7 +790,9 @@
    "pop": 17.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 315.7,
+   "y": 121.4
   },
   {
    "id": "44TGR1CzjKBxSHsSEy7bi9",
@@ -681,7 +803,9 @@
    "pop": 68.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 360.1,
+   "y": 126.6
   },
   {
    "id": "2df7OBCuHz8e9eqbyRqMNH",
@@ -692,7 +816,9 @@
    "pop": 20.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 412.0,
+   "y": 127.4
   },
   {
    "id": "1doQgXssRfKnLx70adszbK",
@@ -703,7 +829,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 466.8,
+   "y": 126.6
   },
   {
    "id": "7KkV7dFoGEXr4M3fpb1FgD",
@@ -714,7 +842,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 510.0,
+   "y": 132.5
   },
   {
    "id": "0xgdNNa5mIbnJKp8AG8S4z",
@@ -725,7 +855,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 579.3,
+   "y": 123.4
   },
   {
    "id": "0NBGssQpgDczTsVEp4pCbR",
@@ -736,7 +868,9 @@
    "pop": 29.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 596.3,
+   "y": 144.2
   },
   {
    "id": "2nq2BeSbzExGAv3Y4HgUf7",
@@ -747,7 +881,9 @@
    "pop": 48.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 660.3,
+   "y": 138.2
   },
   {
    "id": "5AVBFCn4Hq4KY2Xjc5Gj4y",
@@ -758,7 +894,9 @@
    "pop": 50.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 707.4,
+   "y": 141.8
   },
   {
    "id": "32wcuqRxZuBY5HbH1bWa8h",
@@ -769,7 +907,9 @@
    "pop": 12.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 756.0,
+   "y": 144.6
   },
   {
    "id": "01DQQFGEOzbFugH5FcVAgI",
@@ -780,7 +920,9 @@
    "pop": 33.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 846.8,
+   "y": 123.2
   },
   {
    "id": "45yEuthJ9yq1rNXAOpBnqM",
@@ -791,7 +933,9 @@
    "pop": 34.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 882.7,
+   "y": 133.2
   },
   {
    "id": "7sTKZr30LqC928DZ5P9mNQ",
@@ -802,7 +946,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 948.0,
+   "y": 126.5
   },
   {
    "id": "7zdmbPudNX4SQJXnYIuCTC",
@@ -813,7 +959,9 @@
    "pop": 15.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 981.9,
+   "y": 137.6
   },
   {
    "id": "7yKKS5wIb7eYUDb1bZDL3d",
@@ -824,7 +972,9 @@
    "pop": 26.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1026.6,
+   "y": 142.6
   },
   {
    "id": "7wqP36o9lqWteOCxBnXlwx",
@@ -835,7 +985,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1104.7,
+   "y": 128.5
   },
   {
    "id": "7wHPtfK57nbFkg3k16BV5O",
@@ -846,7 +998,9 @@
    "pop": 46.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1141.1,
+   "y": 138.2
   },
   {
    "id": "7wBfoMAxS8VHDwIFnh6cVi",
@@ -857,7 +1011,9 @@
    "pop": 37.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1188.7,
+   "y": 141.6
   },
   {
    "id": "7w9jdhcgHNdiPeNPUoFSlx",
@@ -868,7 +1024,9 @@
    "pop": 37.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1242.7,
+   "y": 141.2
   },
   {
    "id": "7vBT9xJuzO3y0jEQb7ee21",
@@ -879,7 +1037,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1307.0,
+   "y": 135.0
   },
   {
    "id": "7v4yxC7OwBtPk3xBJMw2Wz",
@@ -890,7 +1050,9 @@
    "pop": 15.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1344.1,
+   "y": 144.4
   },
   {
    "id": "7uIDxDntCGcfGMPCzBL18Z",
@@ -901,7 +1063,9 @@
    "pop": 9.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1425.4,
+   "y": 128.4
   },
   {
    "id": "7sBtBCNVRujQhaHDODkfTN",
@@ -912,7 +1076,9 @@
    "pop": 30.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1467.1,
+   "y": 135.1
   },
   {
    "id": "7rOgJmJOFSRFgSwoMRLcXf",
@@ -923,7 +1089,9 @@
    "pop": 10.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1508.4,
+   "y": 142.0
   },
   {
    "id": "7rLROMpngJJNjgA0QuFslW",
@@ -934,7 +1102,9 @@
    "pop": 37.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 99.3,
+   "y": 153.5
   },
   {
    "id": "7rH8vpDNenEoyRm1NDJWzW",
@@ -945,7 +1115,9 @@
    "pop": 33.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 122.8,
+   "y": 170.6
   },
   {
    "id": "7qh7VUg1GOWzb1DklOkwBd",
@@ -956,7 +1128,9 @@
    "pop": 39.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 200.8,
+   "y": 156.6
   },
   {
    "id": "7qAcXJgt1PWnxwUgxMdyuk",
@@ -967,7 +1141,9 @@
    "pop": 65.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 223.7,
+   "y": 174.0
   },
   {
    "id": "7pUuV0FWf861Zq0kNGOTZn",
@@ -978,7 +1154,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 311.2,
+   "y": 154.5
   },
   {
    "id": "7pETuaIYf8FhFQCjCayguS",
@@ -989,7 +1167,9 @@
    "pop": 48.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 333.3,
+   "y": 172.5
   },
   {
    "id": "7omnn7IRrrxdMwSwchVxNP",
@@ -1000,7 +1180,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 404.4,
+   "y": 162.4
   },
   {
    "id": "7oH9raOXUDvGA9EUsoEOal",
@@ -1011,7 +1193,9 @@
    "pop": 8.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 474.3,
+   "y": 152.9
   },
   {
    "id": "7o6cOczXTB8ioTAAJTbESf",
@@ -1022,7 +1206,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 499.3,
+   "y": 169.2
   },
   {
    "id": "7muzHifhMdnfN1xncRLOqk",
@@ -1033,7 +1219,9 @@
    "pop": 59.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 566.0,
+   "y": 161.6
   },
   {
    "id": "47z7ZrgFoBvVpCnElCE3Zh",
@@ -1044,7 +1232,9 @@
    "pop": 55.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 620.8,
+   "y": 160.8
   },
   {
    "id": "7ltESqk31k9AaP0RWCKY3R",
@@ -1055,7 +1245,9 @@
    "pop": 6.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 666.0,
+   "y": 165.5
   },
   {
    "id": "7lY8eBGG8mYelACRSlrpVr",
@@ -1066,7 +1258,9 @@
    "pop": 32.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 701.1,
+   "y": 176.0
   },
   {
    "id": "7lElOfiXTMsnCCr5wfw059",
@@ -1077,7 +1271,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 785.0,
+   "y": 158.6
   },
   {
    "id": "7ig8pUnno95YNA9MclOveH",
@@ -1088,7 +1284,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 810.6,
+   "y": 174.5
   },
   {
    "id": "7iWiAD5LLKyiox2grgfmUT",
@@ -1099,7 +1297,9 @@
    "pop": 54.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 901.2,
+   "y": 153.2
   },
   {
    "id": "7gTbq5nTZGQIUgjEGXQpOS",
@@ -1110,7 +1310,9 @@
    "pop": 51.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 927.8,
+   "y": 168.5
   },
   {
    "id": "7gJGehoyni4ZaaPgYj4I4z",
@@ -1121,7 +1323,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 969.7,
+   "y": 175.2
   },
   {
    "id": "7kHK5OLdiiHCfG49KSHTko",
@@ -1132,7 +1336,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1030.9,
+   "y": 170.7
   },
   {
    "id": "7fWgqc4HJi3pcHhK8hKg2p",
@@ -1143,7 +1349,9 @@
    "pop": 35.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1093.2,
+   "y": 165.6
   },
   {
    "id": "7edtTpy6wnUUuk7cAu4A88",
@@ -1154,7 +1362,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1128.6,
+   "y": 176.0
   },
   {
    "id": "7dkEByOe0oHqc54qU4hwzV",
@@ -1165,7 +1375,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1207.1,
+   "y": 161.6
   },
   {
    "id": "7dAMU7I6Luvi1dS7k1LTFi",
@@ -1176,7 +1388,9 @@
    "pop": 24.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1264.0,
+   "y": 159.6
   },
   {
    "id": "7cTq0bYGTIlPoXo9lFXJlL",
@@ -1187,7 +1401,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1292.6,
+   "y": 173.8
   },
   {
    "id": "7MqnCTCAX6SsIYYdJCQj9B",
@@ -1198,7 +1414,9 @@
    "pop": 62.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1384.2,
+   "y": 152.0
   },
   {
    "id": "57ylwQTnFnIhJh4nu4rxCs",
@@ -1209,7 +1427,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1398.6,
+   "y": 174.3
   },
   {
    "id": "7KRmqRSdAGjiSDns2qsdQ8",
@@ -1220,7 +1440,9 @@
    "pop": 12.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1484.1,
+   "y": 155.9
   },
   {
    "id": "7K1cvWBlDmiXjsIme3egUS",
@@ -1231,7 +1453,9 @@
    "pop": 36.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1538.5,
+   "y": 155.4
   },
   {
    "id": "7K4k5g1ie2qHIH42UMNO7n",
@@ -1242,7 +1466,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 81.3,
+   "y": 194.3
   },
   {
    "id": "60GtR6PIcDY1pikPgKHNk9",
@@ -1253,7 +1479,9 @@
    "pop": 24.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 137.4,
+   "y": 192.9
   },
   {
    "id": "7J3QVHCzXTKjkKjOcQWxOi",
@@ -1264,7 +1492,9 @@
    "pop": 31.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 205.8,
+   "y": 184.3
   },
   {
    "id": "7I4cvfefaKzYwdihC3n2y1",
@@ -1275,7 +1505,9 @@
    "pop": 31.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 235.8,
+   "y": 197.7
   },
   {
    "id": "7Fhrj033a8KzvhEwKNd0Ev",
@@ -1286,7 +1518,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 305.2,
+   "y": 188.5
   },
   {
    "id": "7E7V95LId9MPJ6anIK1qrM",
@@ -1297,7 +1531,9 @@
    "pop": 36.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 335.3,
+   "y": 201.9
   },
   {
    "id": "7Dn3n39xBaVs3ZXpddhGcm",
@@ -1308,7 +1544,9 @@
    "pop": 10.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 384.9,
+   "y": 204.1
   },
   {
    "id": "7CptjEjYax5Dj92JxX7sav",
@@ -1319,7 +1557,9 @@
    "pop": 36.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 449.3,
+   "y": 197.8
   },
   {
    "id": "7CGoviGsNXYmGOBkXk8dtW",
@@ -1330,7 +1570,9 @@
    "pop": 53.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 494.7,
+   "y": 202.4
   },
   {
    "id": "4DWnSG0RYPAds8EIKY26q3",
@@ -1341,7 +1583,9 @@
    "pop": 50.3,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 579.9,
+   "y": 184.2
   },
   {
    "id": "7BqEidErPMNiUXCRE0dV2n",
@@ -1352,7 +1596,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 603.8,
+   "y": 201.1
   },
   {
    "id": "7BYaP20JGeYQWE0rZAfCxP",
@@ -1363,7 +1609,9 @@
    "pop": 17.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 648.0,
+   "y": 206.4
   },
   {
    "id": "7BD05AA3768YwBdtg2FIRr",
@@ -1374,7 +1622,9 @@
    "pop": 2.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 704.5,
+   "y": 204.6
   },
   {
    "id": "7AH2bTtNIOYu24O3NuFxhG",
@@ -1385,7 +1635,9 @@
    "pop": 24.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 758.5,
+   "y": 204.3
   },
   {
    "id": "79el7mcHYhXYW3Zek21i0L",
@@ -1396,7 +1648,9 @@
    "pop": 51.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 843.0,
+   "y": 186.5
   },
   {
    "id": "78VW4bv4VlULohUs0cg1zC",
@@ -1407,7 +1661,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 899.5,
+   "y": 184.8
   },
   {
    "id": "764jQ8Bh7mwUxewOk0oLy9",
@@ -1418,7 +1674,9 @@
    "pop": 19.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 922.8,
+   "y": 202.0
   },
   {
    "id": "77s5NAGQbxu8oLstaqSwHE",
@@ -1429,7 +1687,9 @@
    "pop": 41.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1006.7,
+   "y": 184.5
   },
   {
    "id": "77H7WLYHNHy0klUy1fGXIi",
@@ -1440,7 +1700,9 @@
    "pop": 25.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1044.3,
+   "y": 193.6
   },
   {
    "id": "77DFYRFqoSdvFpprpWY3pK",
@@ -1451,7 +1713,9 @@
    "pop": 32.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1108.5,
+   "y": 187.4
   },
   {
    "id": "76t3VPzCEYAlrZhVAY7yjg",
@@ -1463,7 +1727,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 1163.9,
+   "y": 186.3
   },
   {
    "id": "74hZiQvsOpjJEOVaGTGG6j",
@@ -1474,7 +1740,9 @@
    "pop": 30.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1189.1,
+   "y": 202.4
   },
   {
    "id": "74eX4C98E4FCrAMl39qRsJ",
@@ -1485,7 +1753,9 @@
    "pop": 66.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1249.4,
+   "y": 198.5
   },
   {
    "id": "74OSEWIl8JFuT3501MgRf9",
@@ -1496,7 +1766,9 @@
    "pop": 10.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1314.2,
+   "y": 192.0
   },
   {
    "id": "74IIqlVQQmvf04EHOI6yKh",
@@ -1507,7 +1779,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1360.6,
+   "y": 196.0
   },
   {
    "id": "6zH6MYHlV28nhVXdXCUx9k",
@@ -1518,7 +1792,9 @@
    "pop": 37.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1428.1,
+   "y": 188.0
   },
   {
    "id": "74Hj7BmnUXyx2udrIEIKwX",
@@ -1529,7 +1805,9 @@
    "pop": 49.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1463.4,
+   "y": 198.3
   },
   {
    "id": "71buZyotrHSZMVkSTcDY8c",
@@ -1540,7 +1818,9 @@
    "pop": 46.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1502.5,
+   "y": 206.6
   },
   {
    "id": "70BYFdaZbEKbeauJ670ysI",
@@ -1551,7 +1831,9 @@
    "pop": 47.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 87.5,
+   "y": 221.4
   },
   {
    "id": "6wWVKhxIU2cEi0K81v7HvP",
@@ -1562,7 +1844,9 @@
    "pop": 64.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 114.1,
+   "y": 236.7
   },
   {
    "id": "6wH6iStAh4KIaWfuhf0NYM",
@@ -1573,7 +1857,9 @@
    "pop": 70.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 186.3,
+   "y": 226.0
   },
   {
    "id": "6uqnggb1uJbtZI4u3aLyBe",
@@ -1584,7 +1870,9 @@
    "pop": 22.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 261.1,
+   "y": 213.7
   },
   {
    "id": "6vEal4762GsbaAjbSPkBHs",
@@ -1595,7 +1883,9 @@
    "pop": 16.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 297.0,
+   "y": 223.8
   },
   {
    "id": "6urkHDoIVO1WO8vNIwcJmM",
@@ -1606,7 +1896,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 337.7,
+   "y": 231.1
   },
   {
    "id": "6ul6vL8Hg5jTulDi0Ac8ao",
@@ -1617,7 +1909,9 @@
    "pop": 56.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 388.7,
+   "y": 232.5
   },
   {
    "id": "6ui6SwChan7c1KYBQCqGKV",
@@ -1628,7 +1922,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 468.4,
+   "y": 217.4
   },
   {
    "id": "6uejjWIOshliv2Ho0OJAQN",
@@ -1639,7 +1935,9 @@
    "pop": 33.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 522.7,
+   "y": 216.9
   },
   {
    "id": "6tkhw6PSVw7b2M7h5fLBLE",
@@ -1650,7 +1948,9 @@
    "pop": 38.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 546.3,
+   "y": 234.0
   },
   {
    "id": "6tbLPxj1uQ6vsRQZI2YFCT",
@@ -1661,7 +1961,9 @@
    "pop": 57.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 599.2,
+   "y": 234.3
   },
   {
    "id": "6tS7AajwAlXIU2OKwaXCaM",
@@ -1672,7 +1974,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 686.6,
+   "y": 214.9
   },
   {
    "id": "6swnqiL41Bd4gO2fnAXXrf",
@@ -1683,7 +1987,9 @@
    "pop": 37.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 715.8,
+   "y": 228.7
   },
   {
    "id": "6suRVbMTiFWlTpB6fdLdF2",
@@ -1694,7 +2000,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 779.2,
+   "y": 223.0
   },
   {
    "id": "1NCrHXp9R3ogv8ezWWHFNs",
@@ -1705,7 +2013,9 @@
    "pop": 42.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 838.8,
+   "y": 219.5
   },
   {
    "id": "6sJ8TvVdY3NLFxtG4TESzC",
@@ -1716,7 +2026,9 @@
    "pop": 16.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 883.7,
+   "y": 224.3
   },
   {
    "id": "6sHMd5IuF5YeAkkXoJKgIr",
@@ -1727,7 +2039,9 @@
    "pop": 25.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 956.5,
+   "y": 213.3
   },
   {
    "id": "6s5biOReFi1Oe9GQOG0nsL",
@@ -1738,7 +2052,9 @@
    "pop": 10.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 988.7,
+   "y": 225.4
   },
   {
    "id": "6s2ql6PxmH7drsusi7icaV",
@@ -1749,7 +2065,9 @@
    "pop": 30.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1027.6,
+   "y": 233.7
   },
   {
    "id": "6pIRdCtSE5hLFfIfcTAicI",
@@ -1760,7 +2078,9 @@
    "pop": 22.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1108.6,
+   "y": 217.9
   },
   {
    "id": "6om12Ev5ppgoMy3OYSoech",
@@ -1771,7 +2091,9 @@
    "pop": 64.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1162.7,
+   "y": 217.6
   },
   {
    "id": "6odEUy7osvwibc1yNvxt5u",
@@ -1782,7 +2104,9 @@
    "pop": 16.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1212.2,
+   "y": 219.8
   },
   {
    "id": "6nf7iwR6AoROxfUKZWd1r6",
@@ -1793,7 +2117,9 @@
    "pop": 50.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1239.1,
+   "y": 235.0
   },
   {
    "id": "5vCOdeiQt9LyzdI87kt5Sh",
@@ -1804,7 +2130,9 @@
    "pop": 66.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1329.6,
+   "y": 213.8
   },
   {
    "id": "6swg1JhIcRgZCqAHi3MDp9",
@@ -1815,7 +2143,9 @@
    "pop": 10.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1374.7,
+   "y": 218.5
   },
   {
    "id": "6mfghV4I1CD17FOhDKq7cJ",
@@ -1826,7 +2156,9 @@
    "pop": 15.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1435.8,
+   "y": 214.1
   },
   {
    "id": "6mdiAmATAx73kdxrNrnlao",
@@ -1837,7 +2169,9 @@
    "pop": 76.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1474.3,
+   "y": 222.7
   },
   {
    "id": "6ltVunYjAAD70YtVO6rxvX",
@@ -1848,7 +2182,9 @@
    "pop": 58.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1511.7,
+   "y": 231.8
   },
   {
    "id": "6lMwUV4nVScxzSAQYX4JNF",
@@ -1859,7 +2195,9 @@
    "pop": 29.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 60.8,
+   "y": 267.2
   },
   {
    "id": "6jQgWQKirZ7IKDGN8fRtdA",
@@ -1870,7 +2208,9 @@
    "pop": 16.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 131.3,
+   "y": 257.5
   },
   {
    "id": "6iswhpc2w6na3lS1vehFXF",
@@ -1881,7 +2221,9 @@
    "pop": 25.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 204.0,
+   "y": 246.4
   },
   {
    "id": "6irKXFXk2sPNmHtKqmrfuU",
@@ -1892,7 +2234,9 @@
    "pop": 19.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 234.0,
+   "y": 259.8
   },
   {
    "id": "6hyAYqBdxyramm4W9TB7R0",
@@ -1903,7 +2247,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 302.5,
+   "y": 251.2
   },
   {
    "id": "6gZq1Q6bdOxsUPUG1TaFbF",
@@ -1914,7 +2260,9 @@
    "pop": 68.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 368.6,
+   "y": 243.9
   },
   {
    "id": "6frUTw3CamrF5NAGaQchBS",
@@ -1925,7 +2273,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 381.5,
+   "y": 267.1
   },
   {
    "id": "6fmbbxNvgHkglIakp1Wrv4",
@@ -1936,7 +2286,9 @@
    "pop": 50.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 450.1,
+   "y": 258.5
   },
   {
    "id": "6f1kv0aUPG9I0Rp3dmLCPi",
@@ -1947,7 +2299,9 @@
    "pop": 57.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 527.6,
+   "y": 244.7
   },
   {
    "id": "6eeYhqOX2cpsiHY6gVuvPA",
@@ -1958,7 +2312,9 @@
    "pop": 51.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 578.7,
+   "y": 246.0
   },
   {
    "id": "6dhqzgrbFggOBns03STnU3",
@@ -1969,7 +2325,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 636.6,
+   "y": 243.5
   },
   {
    "id": "6cmp7ut7okJAgJOSaMAVf3",
@@ -1980,7 +2338,9 @@
    "pop": 36.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 666.4,
+   "y": 257.0
   },
   {
    "id": "6bGNUCfRbd1JkMqRsYTURk",
@@ -1991,7 +2351,9 @@
    "pop": 22.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 714.5,
+   "y": 260.0
   },
   {
    "id": "6XyY86QOPPrYVGvF9ch6wz",
@@ -2002,7 +2364,9 @@
    "pop": 86.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 758.6,
+   "y": 265.4
   },
   {
    "id": "6XlNnDjHSvCG8WuG1yoERI",
@@ -2013,7 +2377,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 828.9,
+   "y": 255.7
   },
   {
    "id": "6rYWinCRrr3zsFsfOQErpX",
@@ -2024,7 +2390,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 879.0,
+   "y": 257.6
   },
   {
    "id": "6Wr3hh341P84m3EI8qdn9O",
@@ -2035,7 +2403,9 @@
    "pop": 75.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 953.8,
+   "y": 245.4
   },
   {
    "id": "6WpMmtHYz6DhHhrQWx566m",
@@ -2046,7 +2416,9 @@
    "pop": 20.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 979.2,
+   "y": 261.4
   },
   {
    "id": "2jbP92oFLWqPqogflK1wlW",
@@ -2057,7 +2429,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1047.6,
+   "y": 252.8
   },
   {
    "id": "3K2zB87GZv1krx031en5VA",
@@ -2068,7 +2442,9 @@
    "pop": 49.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1104.5,
+   "y": 250.9
   },
   {
    "id": "6Vh6UDWfu9PUSXSzAaB3CW",
@@ -2079,7 +2455,9 @@
    "pop": 33.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1149.9,
+   "y": 255.4
   },
   {
    "id": "6TvwiAPxsB2Zj2o8bNlogk",
@@ -2090,7 +2468,9 @@
    "pop": 29.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1200.1,
+   "y": 257.3
   },
   {
    "id": "6TmGNPW2oDM5uaXBILozGa",
@@ -2101,7 +2481,9 @@
    "pop": 25.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1253.4,
+   "y": 257.3
   },
   {
    "id": "6ShQAewrb42W6tOALKwstw",
@@ -2112,7 +2494,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1315.3,
+   "y": 252.5
   },
   {
    "id": "6S2tas4z6DyIklBajDqJxI",
@@ -2124,7 +2508,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 1349.1,
+   "y": 263.8
   },
   {
    "id": "6RZ7ZuJqV5F4wdynTkdYn0",
@@ -2135,7 +2521,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1419.6,
+   "y": 253.9
   },
   {
    "id": "6RbFulf0Q38msfpcgh8e0m",
@@ -2146,7 +2534,9 @@
    "pop": 34.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1474.9,
+   "y": 252.9
   },
   {
    "id": "6Pxhi8Zw3ATmIwbkII4sig",
@@ -2157,7 +2547,9 @@
    "pop": 18.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1518.6,
+   "y": 258.5
   },
   {
    "id": "6Pm6fVK5O7KeIWj1LBfRzL",
@@ -2168,7 +2560,9 @@
    "pop": 25.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 85.0,
+   "y": 283.9
   },
   {
    "id": "6P7kkhED6EPrfoZuxz20Fo",
@@ -2179,7 +2573,9 @@
    "pop": 60.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 125.9,
+   "y": 291.1
   },
   {
    "id": "6L77qXFnXb7Tac7xzPa0Y7",
@@ -2190,7 +2586,9 @@
    "pop": 41.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 184.1,
+   "y": 288.4
   },
   {
    "id": "6O7MpKrY91vlCd4Osi6XKs",
@@ -2201,7 +2599,9 @@
    "pop": 68.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 228.4,
+   "y": 293.6
   },
   {
    "id": "6LZE884lDIsCSLHuTplfGp",
@@ -2212,7 +2612,9 @@
    "pop": 38.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 282.7,
+   "y": 293.1
   },
   {
    "id": "6L5kgEyFIlckHbMdRM2KXQ",
@@ -2223,7 +2625,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 367.6,
+   "y": 275.1
   },
   {
    "id": "6Ku6HNSfgFrk2c3KIlf2j9",
@@ -2234,7 +2638,9 @@
    "pop": 46.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 402.9,
+   "y": 285.4
   },
   {
    "id": "6KO6G41BBLTDNYOLefWTMU",
@@ -2245,7 +2651,9 @@
    "pop": 72.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 434.4,
+   "y": 298.0
   },
   {
    "id": "6IuUpA7uQbkfYhl3oG3ZDv",
@@ -2256,7 +2664,9 @@
    "pop": 19.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 488.2,
+   "y": 297.8
   },
   {
    "id": "6Ig4qybKXgMN2FLSM7GKau",
@@ -2267,7 +2677,9 @@
    "pop": 24.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 577.6,
+   "y": 277.2
   },
   {
    "id": "6ISyfZw4EVt16zhmH2lvxp",
@@ -2278,7 +2690,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 636.5,
+   "y": 274.0
   },
   {
    "id": "6HySSUk2KthFj3bd9R61ql",
@@ -2289,7 +2703,9 @@
    "pop": 40.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 678.2,
+   "y": 280.8
   },
   {
    "id": "6FcvjJzvxgybo7Ywsj0hRj",
@@ -2300,7 +2716,9 @@
    "pop": 43.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 711.7,
+   "y": 292.2
   },
   {
    "id": "5yxZeKeX0FcaT6OlOnx52v",
@@ -2311,7 +2729,9 @@
    "pop": 53.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 771.4,
+   "y": 288.6
   },
   {
    "id": "6DIS6PRrLS3wbnZsf7vYic",
@@ -2322,7 +2742,9 @@
    "pop": 75.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 817.9,
+   "y": 292.5
   },
   {
    "id": "6DFJfhZxwWe1yKQvRDJmdl",
@@ -2333,7 +2755,9 @@
    "pop": 55.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 881.7,
+   "y": 286.6
   },
   {
    "id": "6BdSOHfQ6kMg0tbAFlXR1z",
@@ -2344,7 +2768,9 @@
    "pop": 53.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 928.2,
+   "y": 290.5
   },
   {
    "id": "6AJ9HQ2Ptp1WWEfBFvR5fF",
@@ -2355,7 +2781,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 992.9,
+   "y": 284.1
   },
   {
    "id": "69k6uTSZMPLpSnhmLCiKxQ",
@@ -2366,7 +2794,9 @@
    "pop": 0.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1055.0,
+   "y": 279.1
   },
   {
    "id": "6B5c4sch27tWHAGdarpPaW",
@@ -2377,7 +2807,9 @@
    "pop": 71.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1097.1,
+   "y": 285.6
   },
   {
    "id": "68crB0FZHHJ4skP0JgMFKF",
@@ -2388,7 +2820,9 @@
    "pop": 33.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1137.0,
+   "y": 293.4
   },
   {
    "id": "67rhoUbtvL3vE5IoGLgTZQ",
@@ -2399,7 +2833,9 @@
    "pop": 24.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1184.1,
+   "y": 297.0
   },
   {
    "id": "67ps5pbKVO7V9Fcb4lTIXz",
@@ -2410,7 +2846,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1247.8,
+   "y": 291.1
   },
   {
    "id": "65VzgvnIOrNmIk4UwsMI39",
@@ -2421,7 +2859,9 @@
    "pop": 43.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1326.1,
+   "y": 276.9
   },
   {
    "id": "66i5ls7fovMhNt3IkZuWx8",
@@ -2432,7 +2872,9 @@
    "pop": 22.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1348.9,
+   "y": 294.4
   },
   {
    "id": "65EXuYHVoehCKqp0kOS6px",
@@ -2443,7 +2885,9 @@
    "pop": 60.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1433.3,
+   "y": 276.7
   },
   {
    "id": "65A714FqhSPjoFZeffQbTv",
@@ -2454,7 +2898,9 @@
    "pop": 54.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1461.9,
+   "y": 290.9
   },
   {
    "id": "73GhYkwfPQzmfJb1cdPqPf",
@@ -2465,7 +2911,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1514.2,
+   "y": 291.5
   },
   {
    "id": "5sTzirFL1wjNa3GuSiUHsy",
@@ -2476,7 +2924,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 95.7,
+   "y": 308.4
   },
   {
    "id": "1fd3fmwlhrDl2U5wbbPQYN",
@@ -2487,7 +2937,9 @@
    "pop": 54.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 116.0,
+   "y": 327.3
   },
   {
    "id": "6596yDTd94cIC3dlBptxDH",
@@ -2498,7 +2950,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 169.6,
+   "y": 327.2
   },
   {
    "id": "64g59lHsc4g2jMFokrKDGW",
@@ -2509,7 +2963,9 @@
    "pop": 67.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 249.5,
+   "y": 312.1
   },
   {
    "id": "641WQSmg3lexnjloE0Encw",
@@ -2520,7 +2976,9 @@
    "pop": 37.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 277.8,
+   "y": 326.4
   },
   {
    "id": "630wzNP2OL7fl4Xl0GnMWq",
@@ -2531,7 +2989,9 @@
    "pop": 25.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 356.6,
+   "y": 312.0
   },
   {
    "id": "6159IBm5gLPwG4BcJXseXc",
@@ -2542,7 +3002,9 @@
    "pop": 31.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 413.6,
+   "y": 309.9
   },
   {
    "id": "60XZ1DvTXVTCINO9NKPnLl",
@@ -2553,7 +3015,9 @@
    "pop": 31.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 463.4,
+   "y": 311.9
   },
   {
    "id": "60OFBH3eDdUxP7ost2ul96",
@@ -2564,7 +3028,9 @@
    "pop": 27.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 489.7,
+   "y": 327.5
   },
   {
    "id": "5yimluzyt2ZhLaha1KX1nn",
@@ -2575,7 +3041,9 @@
    "pop": 26.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 543.9,
+   "y": 327.0
   },
   {
    "id": "5xHX5hLVen1uvA6THTO7Tn",
@@ -2586,7 +3054,9 @@
    "pop": 34.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 609.0,
+   "y": 320.4
   },
   {
    "id": "2dGBswGV32KX6Dm05YNJHm",
@@ -2597,7 +3067,9 @@
    "pop": 20.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 676.6,
+   "y": 312.2
   },
   {
    "id": "5w2mH8urQl2OuVRJbUhAQz",
@@ -2608,7 +3080,9 @@
    "pop": 35.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 720.2,
+   "y": 317.9
   },
   {
    "id": "5uupCq8n8puAiDwBgeLPy4",
@@ -2619,7 +3093,9 @@
    "pop": 15.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 773.0,
+   "y": 318.2
   },
   {
    "id": "5urnoBZifR5YXG5YdCOj34",
@@ -2630,7 +3106,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 850.4,
+   "y": 304.5
   },
   {
    "id": "5t28BP42x2axFnqOOMg3CM",
@@ -2641,7 +3119,9 @@
    "pop": 62.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 866.5,
+   "y": 325.9
   },
   {
    "id": "5rKi8nP7CfFcbjz3DpA9Yx",
@@ -2652,7 +3132,9 @@
    "pop": 17.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 947.6,
+   "y": 310.0
   },
   {
    "id": "5qSQDLG1CdotFh8eWhm7yT",
@@ -2663,7 +3145,9 @@
    "pop": 38.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 987.7,
+   "y": 317.7
   },
   {
    "id": "5oJ9zoNo42EfwLJDBmKB0n",
@@ -2674,7 +3158,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1024.5,
+   "y": 327.2
   },
   {
    "id": "5kQGFREO5FzMBMsAO3cEtj",
@@ -2685,7 +3171,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1077.4,
+   "y": 327.5
   },
   {
    "id": "5jQPKWBobu6cJwGSbbqgCk",
@@ -2696,7 +3184,9 @@
    "pop": 43.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1159.3,
+   "y": 311.2
   },
   {
    "id": "5imUS9dQyCbAjUEJJ9QyWC",
@@ -2707,7 +3197,9 @@
    "pop": 63.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1194.4,
+   "y": 321.7
   },
   {
    "id": "5iFI4j0w7RbSJmkbI6rqzi",
@@ -2718,7 +3210,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1274.1,
+   "y": 306.6
   },
   {
    "id": "5hmlmiOzhNJ5vE7sR2vuiR",
@@ -2729,7 +3223,9 @@
    "pop": 28.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1304.2,
+   "y": 320.0
   },
   {
    "id": "5hW7RukGK6ErG26zM3Sfzl",
@@ -2740,7 +3236,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1369.9,
+   "y": 312.9
   },
   {
    "id": "5he5w2lnU9x7JFhnwcekXX",
@@ -2751,7 +3249,9 @@
    "pop": 66.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1412.3,
+   "y": 319.3
   },
   {
    "id": "5f18KeztDInZIN7cRyRdp6",
@@ -2762,7 +3262,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1462.9,
+   "y": 320.9
   },
   {
    "id": "01WjpKiWVNurV5hjIadB8C",
@@ -2773,7 +3275,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1512.9,
+   "y": 322.8
   },
   {
    "id": "5eKLa1xyHLq8ERWmT1CRHj",
@@ -2784,7 +3288,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 68.9,
+   "y": 354.3
   },
   {
    "id": "5dw20y4c03uTJPC7rKoDtS",
@@ -2795,7 +3301,9 @@
    "pop": 26.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 151.8,
+   "y": 337.4
   },
   {
    "id": "5eAWCfyUhZtHHtBdNk56l1",
@@ -2806,7 +3314,9 @@
    "pop": 83.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 169.3,
+   "y": 358.0
   },
   {
    "id": "5cCgzhFyRJVydeO23BqgLG",
@@ -2817,7 +3327,9 @@
    "pop": 51.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 235.8,
+   "y": 350.5
   },
   {
    "id": "5c8Cw62ZYj9XO6iDLRDEsi",
@@ -2828,7 +3340,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 279.0,
+   "y": 356.3
   },
   {
    "id": "5aYyPjAsLj7UzANzdupwnS",
@@ -2839,7 +3353,9 @@
    "pop": 75.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 356.4,
+   "y": 342.6
   },
   {
    "id": "5aD8Bnv5H9YVKH75Xe7QGr",
@@ -2850,7 +3366,9 @@
    "pop": 28.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 420.0,
+   "y": 336.8
   },
   {
    "id": "5Zsdx7tEqtPExbu4KzcjI9",
@@ -2861,7 +3379,9 @@
    "pop": 13.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 453.1,
+   "y": 348.4
   },
   {
    "id": "5YeoQ1L71cXDMpSpqxOjfH",
@@ -2872,7 +3392,9 @@
    "pop": 33.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 502.3,
+   "y": 350.8
   },
   {
    "id": "5YQUrpDa5dkmo9Vk8hHQP9",
@@ -2883,7 +3405,9 @@
    "pop": 41.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 552.5,
+   "y": 352.7
   },
   {
    "id": "5YEiU2cv6C6WBFS4epAT3i",
@@ -2894,7 +3418,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 614.0,
+   "y": 348.1
   },
   {
    "id": "5X0N2k3qMnI8kSrGJT3kfT",
@@ -2905,7 +3431,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 687.5,
+   "y": 336.6
   },
   {
    "id": "5Wqztnja4JFJ7WNcGLzAzb",
@@ -2916,7 +3444,9 @@
    "pop": 17.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 735.6,
+   "y": 339.6
   },
   {
    "id": "5TcSmqbuyYcyn396CFLwPr",
@@ -2927,7 +3457,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 795.2,
+   "y": 336.1
   },
   {
    "id": "5SJq66zDtu35BkIiHnvv70",
@@ -2938,7 +3470,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 827.8,
+   "y": 348.0
   },
   {
    "id": "5S6hjAxgxjsLylsTtMIimO",
@@ -2949,7 +3483,9 @@
    "pop": 27.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 898.9,
+   "y": 337.9
   },
   {
    "id": "5Lr1Om17ha56YMl8ejZIKe",
@@ -2960,7 +3496,9 @@
    "pop": 35.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 921.1,
+   "y": 355.7
   },
   {
    "id": "5LJPlSHiYtJQ7mvVfDPVkT",
@@ -2971,7 +3509,9 @@
    "pop": 16.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 975.2,
+   "y": 355.4
   },
   {
    "id": "5LDGgIxaWuRV4KlY6oob6b",
@@ -2982,7 +3522,9 @@
    "pop": 14.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1051.5,
+   "y": 342.3
   },
   {
    "id": "5KvkOKroKLz202ioXfGWR2",
@@ -2993,7 +3535,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1089.8,
+   "y": 351.0
   },
   {
    "id": "5KDIH2gF0VpelTqyQS7udb",
@@ -3004,7 +3548,9 @@
    "pop": 69.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1166.2,
+   "y": 337.8
   },
   {
    "id": "5IycUH8D1H2hvGOvXkVfYX",
@@ -3015,7 +3561,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1206.6,
+   "y": 345.2
   },
   {
    "id": "5HU7OcgioAzw0hzxbeLD1C",
@@ -3026,7 +3574,9 @@
    "pop": 33.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1258.2,
+   "y": 346.3
   },
   {
    "id": "5HFkc3t0HYETL4JeEbDB1v",
@@ -3037,7 +3587,9 @@
    "pop": 32.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1320.6,
+   "y": 341.1
   },
   {
    "id": "5HA5aLY3jJV7eimXWkRBBp",
@@ -3048,7 +3600,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1382.2,
+   "y": 336.5
   },
   {
    "id": "5GETpZjqNPFTHpVOousGeo",
@@ -3059,7 +3613,9 @@
    "pop": 21.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1436.9,
+   "y": 335.7
   },
   {
    "id": "5EHvXKnNz78jkAVgTQLQ5O",
@@ -3070,7 +3626,9 @@
    "pop": 49.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1488.6,
+   "y": 336.7
   },
   {
    "id": "5DpSoH5zCXNRqYai7pmcGG",
@@ -3081,7 +3639,9 @@
    "pop": 50.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1537.0,
+   "y": 339.6
   },
   {
    "id": "4M3c7tg4BzLQ5pIOupZL65",
@@ -3092,7 +3652,9 @@
    "pop": 41.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 99.8,
+   "y": 367.2
   },
   {
    "id": "5iWNGhdgW9MA0l5AqFLqh9",
@@ -3103,7 +3665,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 124.4,
+   "y": 383.7
   },
   {
    "id": "5C09GBvd2MIE3YqRSOB9dY",
@@ -3114,7 +3678,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 203.6,
+   "y": 368.9
   },
   {
    "id": "5BtHciL0e0zOP7prIHn3pP",
@@ -3125,7 +3691,9 @@
    "pop": 45.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 250.3,
+   "y": 372.8
   },
   {
    "id": "59CIPNdUfewexxn1CJEdp5",
@@ -3136,7 +3704,9 @@
    "pop": 53.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 285.4,
+   "y": 383.2
   },
   {
    "id": "58jeN5Whh7fhR67rE46qBt",
@@ -3147,7 +3717,9 @@
    "pop": 33.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 366.9,
+   "y": 367.1
   },
   {
    "id": "58R5LHkK3vkmEyGUPOR5kS",
@@ -3158,7 +3730,9 @@
    "pop": 61.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 397.3,
+   "y": 380.3
   },
   {
    "id": "57dN52uHvrHOxijzpIgu3E",
@@ -3169,7 +3743,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 456.0,
+   "y": 377.3
   },
   {
    "id": "1tbhwOH5UBAJoqTx9Oak00",
@@ -3180,7 +3756,9 @@
    "pop": 39.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 521.6,
+   "y": 370.4
   },
   {
    "id": "1tJpdWrJMjRN94utnNlOVX",
@@ -3191,7 +3769,9 @@
    "pop": 13.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 542.7,
+   "y": 388.9
   },
   {
    "id": "571SRwCkLqVygKpejWCR0v",
@@ -3202,7 +3782,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 614.9,
+   "y": 378.1
   },
   {
    "id": "56dO9zeHKuU5Gvfc2kxHNw",
@@ -3213,7 +3795,9 @@
    "pop": 67.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 651.8,
+   "y": 387.5
   },
   {
    "id": "5556RAgwP70PnXbaUTGNbR",
@@ -3224,7 +3808,9 @@
    "pop": 0.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 725.5,
+   "y": 376.0
   },
   {
    "id": "52spPXU6EzdqT0TT1WuAWx",
@@ -3236,7 +3822,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 790.0,
+   "y": 369.6
   },
   {
    "id": "521Yl3LUvD7G9dMRO4fpCy",
@@ -3247,7 +3835,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 827.8,
+   "y": 378.6
   },
   {
    "id": "50ifAXDdkDGG0RTON2If8K",
@@ -3258,7 +3848,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 892.1,
+   "y": 372.3
   },
   {
    "id": "4whxX965DKKqYkXmk33b4E",
@@ -3269,7 +3861,9 @@
    "pop": 62.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 950.1,
+   "y": 369.7
   },
   {
    "id": "4weRrUTN1RKEnPsZADVS62",
@@ -3280,7 +3874,9 @@
    "pop": 18.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 987.4,
+   "y": 378.9
   },
   {
    "id": "4wSMRIInYxJIH3nji0kl4R",
@@ -3291,7 +3887,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1060.6,
+   "y": 367.6
   },
   {
    "id": "4vATWjWf6AYUj0tyKD6sDM",
@@ -3302,7 +3900,9 @@
    "pop": 32.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1078.3,
+   "y": 388.1
   },
   {
    "id": "4ucW1LE5T7y7X4jlaKCeVo",
@@ -3313,7 +3913,9 @@
    "pop": 43.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1151.1,
+   "y": 377.0
   },
   {
    "id": "4uYwLU7k03RCQSRXGtQGg0",
@@ -3324,7 +3926,9 @@
    "pop": 60.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1222.2,
+   "y": 366.9
   },
   {
    "id": "4uPWvwgl5qwMLqyUSZPhnv",
@@ -3335,7 +3939,9 @@
    "pop": 15.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1241.2,
+   "y": 386.6
   },
   {
    "id": "3W6ycTJbWmgqX5PrILerdQ",
@@ -3346,7 +3952,9 @@
    "pop": 21.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1296.7,
+   "y": 385.4
   },
   {
    "id": "4tMZahYVKJdjbC1GHVtNnV",
@@ -3357,7 +3965,9 @@
    "pop": 57.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1364.9,
+   "y": 376.9
   },
   {
    "id": "4tLnmxO1rdlxWcEXXMds8a",
@@ -3368,7 +3978,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1404.8,
+   "y": 384.7
   },
   {
    "id": "4tGxWZaAkt50t9VZxSxOGZ",
@@ -3379,7 +3991,9 @@
    "pop": 50.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1464.0,
+   "y": 381.4
   },
   {
    "id": "4q2uhIfBHCNlwXYvQdnzvS",
@@ -3390,7 +4004,9 @@
    "pop": 14.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1526.6,
+   "y": 376.1
   },
   {
    "id": "4qrdhnXBOzRt9OSmL29IFO",
@@ -3401,7 +4017,9 @@
    "pop": 43.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 64.5,
+   "y": 417.9
   },
   {
    "id": "4qb82fknNpR3TQGbpmhMxC",
@@ -3412,7 +4030,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 132.9,
+   "y": 409.4
   },
   {
    "id": "4qWTqOdDnH56Qak9UjmpKz",
@@ -3423,7 +4043,9 @@
    "pop": 43.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 169.9,
+   "y": 418.7
   },
   {
    "id": "4p6RoajGbtqLSfYZpFxHyU",
@@ -3434,7 +4056,9 @@
    "pop": 22.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 254.9,
+   "y": 400.7
   },
   {
    "id": "4oz8w4VbKJIgBUkLRCJgm7",
@@ -3445,7 +4069,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 304.6,
+   "y": 402.8
   },
   {
    "id": "4p4w7caKUrj4emHsdmSToC",
@@ -3456,7 +4082,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 365.7,
+   "y": 398.4
   },
   {
    "id": "4nku1C0kzbBVhdflAwyTfO",
@@ -3467,7 +4095,9 @@
    "pop": 26.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 393.9,
+   "y": 412.8
   },
   {
    "id": "4nCzT3o7lMgCWBcmdwCMsT",
@@ -3478,7 +4108,9 @@
    "pop": 47.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 472.2,
+   "y": 398.6
   },
   {
    "id": "4mIdyUBqjS36BQHYFBbGjm",
@@ -3489,7 +4121,9 @@
    "pop": 26.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 490.3,
+   "y": 418.8
   },
   {
    "id": "4jpaXieuls7LVzG1uma5Rs",
@@ -3500,7 +4134,9 @@
    "pop": 53.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 572.2,
+   "y": 402.5
   },
   {
    "id": "4k1ELeJKT1ISyDv8JivPpB",
@@ -3511,7 +4147,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 607.2,
+   "y": 413.1
   },
   {
    "id": "4hj24ozWgxB4zFEnkL6xgL",
@@ -3522,7 +4160,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 674.8,
+   "y": 405.0
   },
   {
    "id": "4hhKg6oVgu3MBkCV7TFbhd",
@@ -3533,7 +4173,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 723.3,
+   "y": 407.8
   },
   {
    "id": "4hFScNSgSkApFw193xlyH7",
@@ -3544,7 +4186,9 @@
    "pop": 17.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 790.0,
+   "y": 400.2
   },
   {
    "id": "4QGKWF55nqfGYToZkoZPRF",
@@ -3555,7 +4199,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 843.1,
+   "y": 400.3
   },
   {
    "id": "2Ym9WvIrSd6TCZZgqacWWn",
@@ -3566,7 +4212,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 878.6,
+   "y": 410.6
   },
   {
    "id": "4gStxnd8dQCtu5jeE4rEBF",
@@ -3577,7 +4225,9 @@
    "pop": 11.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 921.7,
+   "y": 416.5
   },
   {
    "id": "4gSQlkxtYOyPSRFksQk6tb",
@@ -3588,7 +4238,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1004.2,
+   "y": 399.9
   },
   {
    "id": "4gRFSxjAcJkb54BDjqo7Bc",
@@ -3599,7 +4251,9 @@
    "pop": 35.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1051.5,
+   "y": 403.4
   },
   {
    "id": "4g6EnIPhmYBTZ7vsmxDkxH",
@@ -3610,7 +4264,9 @@
    "pop": 42.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1101.5,
+   "y": 405.3
   },
   {
    "id": "0spHbv2fw49lDMkbOAdaqX",
@@ -3621,7 +4277,9 @@
    "pop": 31.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1136.7,
+   "y": 415.8
   },
   {
    "id": "4fClmcYOLFAp5rrKUqLHAI",
@@ -3632,7 +4290,9 @@
    "pop": 48.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1208.7,
+   "y": 405.2
   },
   {
    "id": "4bQpnUrp6aXhEQUljvyGqx",
@@ -3643,7 +4303,9 @@
    "pop": 26.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1258.9,
+   "y": 407.0
   },
   {
    "id": "4f9iBmdUOhQWeP7dcAn1pf",
@@ -3654,7 +4316,9 @@
    "pop": 83.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1326.9,
+   "y": 398.7
   },
   {
    "id": "7CajNmpbOovFoOoasH2HaY",
@@ -3665,7 +4329,9 @@
    "pop": 76.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1361.9,
+   "y": 409.2
   },
   {
    "id": "4b1TsLuw4b3Sybwy0BLRBA",
@@ -3676,7 +4342,9 @@
    "pop": 37.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1416.1,
+   "y": 408.8
   },
   {
    "id": "4aY5KQo2g0QxZJA5djS0Jz",
@@ -3687,7 +4355,9 @@
    "pop": 36.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1468.2,
+   "y": 409.5
   },
   {
    "id": "4ZgkHVHmGPXuRy8zd26ZJX",
@@ -3698,7 +4368,9 @@
    "pop": 37.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1540.0,
+   "y": 399.0
   },
   {
    "id": "4YJR4xviDKHoelt9WKHlBa",
@@ -3709,7 +4381,9 @@
    "pop": 56.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 71.1,
+   "y": 444.7
   },
   {
    "id": "4Y7tXHSEejGu1vQ9bwDdXW",
@@ -3720,7 +4394,9 @@
    "pop": 34.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 115.4,
+   "y": 449.9
   },
   {
    "id": "5KWOCu1saEHAhPiLKlOLIy",
@@ -3731,7 +4407,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 181.6,
+   "y": 442.6
   },
   {
    "id": "4U4MLgbG8grqloeq1XJ7Mb",
@@ -3742,7 +4420,9 @@
    "pop": 21.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 242.2,
+   "y": 438.5
   },
   {
    "id": "4BKyei61gtyDFxlKhcvBJJ",
@@ -3753,7 +4433,9 @@
    "pop": 41.3,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 299.3,
+   "y": 436.4
   },
   {
    "id": "4Tn492w39RC022GcG89rYW",
@@ -3764,7 +4446,9 @@
    "pop": 29.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 332.5,
+   "y": 448.0
   },
   {
    "id": "4Tg06Sex4LzwcgVdfRrHlp",
@@ -3775,7 +4459,9 @@
    "pop": 7.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 388.5,
+   "y": 446.5
   },
   {
    "id": "4TUDBGKxd2TYQW1k6CRnz3",
@@ -3786,7 +4472,9 @@
    "pop": 1.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 444.0,
+   "y": 445.3
   },
   {
    "id": "4Ri061lbxtCwNoqDnprznA",
@@ -3797,7 +4485,9 @@
    "pop": 52.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 488.9,
+   "y": 450.2
   },
   {
    "id": "4RddZ3iHvSpGV4dvATac9X",
@@ -3808,7 +4498,9 @@
    "pop": 56.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 554.9,
+   "y": 443.0
   },
   {
    "id": "4RXhcND1sKXFNuZQ1dVTrI",
@@ -3819,7 +4511,9 @@
    "pop": 9.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 636.8,
+   "y": 426.7
   },
   {
    "id": "4QjcHVaUB35395GeUoRIfZ",
@@ -3830,7 +4524,9 @@
    "pop": 15.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 689.2,
+   "y": 427.3
   },
   {
    "id": "4Q5nY2iAbGG11A8RVCSizN",
@@ -3841,7 +4537,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 728.9,
+   "y": 435.1
   },
   {
    "id": "4PoYwGOztIrPpBfRIlMSxP",
@@ -3852,7 +4550,9 @@
    "pop": 53.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 754.9,
+   "y": 450.8
   },
   {
    "id": "2ucBekSuu3VZ5whk4klq1F",
@@ -3863,7 +4563,9 @@
    "pop": 34.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 836.5,
+   "y": 434.7
   },
   {
    "id": "4N99bzdRBNRi7hGNCpMuhu",
@@ -3874,7 +4576,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 893.5,
+   "y": 432.6
   },
   {
    "id": "4MN5X8pr84Fliz62NlXhym",
@@ -3885,7 +4589,9 @@
    "pop": 34.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 929.3,
+   "y": 442.7
   },
   {
    "id": "4Lm0pUvmisUHMdoky5ch2I",
@@ -3896,7 +4602,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 973.0,
+   "y": 448.3
   },
   {
    "id": "0nhDd1RWjZ6SDV1Vg1Ku2Q",
@@ -3907,7 +4615,9 @@
    "pop": 53.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1060.8,
+   "y": 428.6
   },
   {
    "id": "4Kyb02r7dR3H1PH7pYkb8X",
@@ -3918,7 +4628,9 @@
    "pop": 52.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1086.1,
+   "y": 444.7
   },
   {
    "id": "4KlYg0F5KG9QNDFKaeTNAy",
@@ -3929,7 +4641,9 @@
    "pop": 50.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1156.8,
+   "y": 434.8
   },
   {
    "id": "4Iyvo65peG4ImDz5AzTqQB",
@@ -3940,7 +4654,9 @@
    "pop": 44.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1218.9,
+   "y": 429.9
   },
   {
    "id": "4HrkLxQHZ5mgCtIVpiH5QX",
@@ -3951,7 +4667,9 @@
    "pop": 56.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1240.1,
+   "y": 448.3
   },
   {
    "id": "4FmJD0mpgQ70SNt2EKK8tq",
@@ -3962,7 +4680,9 @@
    "pop": 53.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1326.2,
+   "y": 429.6
   },
   {
    "id": "4EvbQBS99RXzFGGimAS3i9",
@@ -3973,7 +4693,9 @@
    "pop": 35.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1366.4,
+   "y": 437.2
   },
   {
    "id": "4E6WEkrsnOJUSFn83fdyIS",
@@ -3984,7 +4706,9 @@
    "pop": 33.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1422.4,
+   "y": 435.7
   },
   {
    "id": "4DWX7u8BV0vZIQSpJQQDWU",
@@ -3995,7 +4719,9 @@
    "pop": 61.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1482.4,
+   "y": 432.0
   },
   {
    "id": "4CAsSAU842glNKJX71ndA9",
@@ -4006,7 +4732,9 @@
    "pop": 26.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1532.8,
+   "y": 433.7
   },
   {
    "id": "4Ao2Rf710DOeoR3SYVzDb5",
@@ -4017,7 +4745,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 95.2,
+   "y": 461.5
   },
   {
    "id": "4AbDWrmJPSOeIbT2Ou60ik",
@@ -4028,7 +4758,9 @@
    "pop": 49.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 121.4,
+   "y": 477.0
   },
   {
    "id": "4APnCNlupzw0eNxRIjSM45",
@@ -4039,7 +4771,9 @@
    "pop": 42.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 200.7,
+   "y": 462.2
   },
   {
    "id": "49qiE8dj4JuNdpYGRPdKbF",
@@ -4050,7 +4784,9 @@
    "pop": 43.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 242.8,
+   "y": 468.7
   },
   {
    "id": "49bzE5vRBRIota4qeHtQM8",
@@ -4061,7 +4797,9 @@
    "pop": 79.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 306.5,
+   "y": 462.8
   },
   {
    "id": "481O9YRYc0ifnh00ZS6no6",
@@ -4072,7 +4810,9 @@
    "pop": 35.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 336.7,
+   "y": 476.1
   },
   {
    "id": "46HcJG62ky3Tj7yJpB2Qqg",
@@ -4083,7 +4823,9 @@
    "pop": 42.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 416.5,
+   "y": 461.0
   },
   {
    "id": "45c015302pkY0hgbjeGk1F",
@@ -4094,7 +4836,9 @@
    "pop": 26.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 464.8,
+   "y": 464.0
   },
   {
    "id": "43sZBwHjahUvgbx1WNIkIz",
@@ -4105,7 +4849,9 @@
    "pop": 57.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 511.5,
+   "y": 467.8
   },
   {
    "id": "3qQgY6bwLUYIkxPWTaafHR",
@@ -4116,7 +4862,9 @@
    "pop": 39.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 561.8,
+   "y": 469.6
   },
   {
    "id": "3pulcT2wt7FEG10lQlqDJL",
@@ -4127,7 +4875,9 @@
    "pop": 64.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 623.3,
+   "y": 465.0
   },
   {
    "id": "3pLS7n1EViUddhOv6FruBk",
@@ -4138,7 +4888,9 @@
    "pop": 34.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 686.7,
+   "y": 459.3
   },
   {
    "id": "3o2dn2O0FCVsWDFSh8qxgG",
@@ -4149,7 +4901,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 702.6,
+   "y": 480.8
   },
   {
    "id": "3EDllPZzA7Ipj53OWeArLe",
@@ -4160,7 +4914,9 @@
    "pop": 46.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 771.4,
+   "y": 472.0
   },
   {
    "id": "6owIbAC3XpJNvH6YMCH0Zo",
@@ -4171,7 +4927,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 841.2,
+   "y": 462.6
   },
   {
    "id": "3nsv5EHlrDfwOhsf2pErtS",
@@ -4182,7 +4940,9 @@
    "pop": 26.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 898.8,
+   "y": 460.2
   },
   {
    "id": "3n4ersmDo55xV4fPSCKpXb",
@@ -4193,7 +4953,9 @@
    "pop": 56.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 947.8,
+   "y": 462.7
   },
   {
    "id": "3jTlKw98Ql1jGRPYqhqHap",
@@ -4204,7 +4966,9 @@
    "pop": 25.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 977.5,
+   "y": 476.3
   },
   {
    "id": "40K7TadIl5Obvm0EMbuwq0",
@@ -4215,7 +4979,9 @@
    "pop": 15.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1030.1,
+   "y": 476.8
   },
   {
    "id": "41nB823nb3wxEI25UeGHqG",
@@ -4226,7 +4992,9 @@
    "pop": 39.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1107.0,
+   "y": 463.4
   },
   {
    "id": "3z6tuZQZTBtEKhiavweMGR",
@@ -4237,7 +5005,9 @@
    "pop": 18.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1165.2,
+   "y": 460.6
   },
   {
    "id": "3ySNhvP0TNqkbu6zbUskTI",
@@ -4248,7 +5018,9 @@
    "pop": 37.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1223.8,
+   "y": 457.7
   },
   {
    "id": "3v0nHmnUcf9GAhjQOTctQu",
@@ -4259,7 +5031,9 @@
    "pop": 37.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1276.4,
+   "y": 458.1
   },
   {
    "id": "3uPyBM8OOWt4iJJfLfKpam",
@@ -4270,7 +5044,9 @@
    "pop": 28.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1306.0,
+   "y": 471.8
   },
   {
    "id": "3u6jopsj6GeZAHJAmfUxk1",
@@ -4281,7 +5057,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1369.2,
+   "y": 466.2
   },
   {
    "id": "3jc496ljiyrS3ECrD7QiqL",
@@ -4292,7 +5070,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1427.5,
+   "y": 463.3
   },
   {
    "id": "3t5X2CVDf5mrlIx1SdvWYM",
@@ -4303,7 +5083,9 @@
    "pop": 53.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1490.0,
+   "y": 458.2
   },
   {
    "id": "3sURANr03JD4V9tRA8fChy",
@@ -4314,7 +5096,9 @@
    "pop": 40.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1512.8,
+   "y": 475.7
   },
   {
    "id": "3sQVICf0Bhikl5tlBQSU6W",
@@ -4325,7 +5109,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 69.8,
+   "y": 506.6
   },
   {
    "id": "3rdFnKhyWhTivuBFSH4YT3",
@@ -4336,7 +5122,9 @@
    "pop": 21.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 127.4,
+   "y": 504.2
   },
   {
    "id": "3r6Ko1roqUO1jEnZchv235",
@@ -4347,7 +5135,9 @@
    "pop": 12.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 190.8,
+   "y": 498.5
   },
   {
    "id": "3hE8S8ohRErocpkY7uJW4a",
@@ -4358,7 +5148,9 @@
    "pop": 48.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 234.0,
+   "y": 504.3
   },
   {
    "id": "3fr1chTroFCQB2B0m8QdTj",
@@ -4369,7 +5161,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 306.1,
+   "y": 493.6
   },
   {
    "id": "3eSEqSahyP1JkoUnHkdjLX",
@@ -4380,7 +5174,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 340.8,
+   "y": 504.4
   },
   {
    "id": "3e09PYEqXPesfLm6WLD00B",
@@ -4391,7 +5187,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 380.7,
+   "y": 512.1
   },
   {
    "id": "3boYI1yAlZAm5NmtCitCFj",
@@ -4402,7 +5200,9 @@
    "pop": 53.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 471.1,
+   "y": 490.9
   },
   {
    "id": "3bcLBxvaI7GsBzGp3WHnwQ",
@@ -4413,7 +5213,9 @@
    "pop": 41.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 513.6,
+   "y": 497.2
   },
   {
    "id": "3aqqh6mQCWroTtgvRYQR9n",
@@ -4424,7 +5226,9 @@
    "pop": 13.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 562.7,
+   "y": 499.7
   },
   {
    "id": "3a9qv6NLHnsVxJUtKOMHvD",
@@ -4435,7 +5239,9 @@
    "pop": 54.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 608.8,
+   "y": 503.8
   },
   {
    "id": "47mIJdHORyRerp4os813jD",
@@ -4446,7 +5252,9 @@
    "pop": 75.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 661.7,
+   "y": 504.1
   },
   {
    "id": "3ZlSRBv3StWrGuGTAwKskP",
@@ -4457,7 +5265,9 @@
    "pop": 34.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 724.1,
+   "y": 499.0
   },
   {
    "id": "3ZPq4IH5ZDJKwx5dBQQhBO",
@@ -4468,7 +5278,9 @@
    "pop": 42.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 765.8,
+   "y": 505.7
   },
   {
    "id": "3XquRQYlB1gXQkYdOV7S2x",
@@ -4479,7 +5291,9 @@
    "pop": 41.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 836.6,
+   "y": 495.8
   },
   {
    "id": "3VQ3QgZLa7DgkJaPwydPOj",
@@ -4490,7 +5304,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 897.0,
+   "y": 491.8
   },
   {
    "id": "3V4c44pHzC8apm8HiiFF6V",
@@ -4501,7 +5317,9 @@
    "pop": 27.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 920.0,
+   "y": 509.2
   },
   {
    "id": "3Uobr6LgQpBbk6k4QGAb3V",
@@ -4512,7 +5330,9 @@
    "pop": 67.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 991.8,
+   "y": 498.7
   },
   {
    "id": "3UifQ31wx5RQTJXgmqzhYF",
@@ -4523,7 +5343,9 @@
    "pop": 8.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1045.1,
+   "y": 498.7
   },
   {
    "id": "3TTbkikkCAbUg2j5i9UrTV",
@@ -4534,7 +5356,9 @@
    "pop": 37.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1109.7,
+   "y": 492.3
   },
   {
    "id": "3TOqt5oJwL9BE2NG9MEwDa",
@@ -4545,7 +5369,9 @@
    "pop": 64.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1157.3,
+   "y": 495.7
   },
   {
    "id": "3RbyaF3Pq6iDUKNp04AIcU",
@@ -4556,7 +5382,9 @@
    "pop": 51.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1221.5,
+   "y": 489.5
   },
   {
    "id": "3RbXuB6HeChRKwHDiY2PEC",
@@ -4567,7 +5395,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1253.2,
+   "y": 502.0
   },
   {
    "id": "3RP2zXcz4jTsOD2pFPAYVs",
@@ -4578,7 +5408,9 @@
    "pop": 8.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1325.0,
+   "y": 491.4
   },
   {
    "id": "3RNrq3jvMZxD9ZyoOZbQOD",
@@ -4589,7 +5421,9 @@
    "pop": 24.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1371.9,
+   "y": 495.2
   },
   {
    "id": "3PgNlHzp2aZ46SHJVQzdSU",
@@ -4600,7 +5434,9 @@
    "pop": 2.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1400.4,
+   "y": 509.5
   },
   {
    "id": "3OpqU68JpZlzvjAJj3B2Da",
@@ -4611,7 +5447,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1451.4,
+   "y": 510.8
   },
   {
    "id": "3NrGqWwh6dKk99v1UFqQak",
@@ -4622,7 +5460,9 @@
    "pop": 42.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1516.6,
+   "y": 504.1
   },
   {
    "id": "3N3B6aZbGPNDiW5aZesnoG",
@@ -4633,7 +5473,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 94.7,
+   "y": 522.9
   },
   {
    "id": "3M9doX3xHPQJbfUrhvpm9G",
@@ -4644,7 +5486,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 145.1,
+   "y": 524.6
   },
   {
    "id": "39rAAms1jLYfEyTvPod4pm",
@@ -4655,7 +5499,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 192.7,
+   "y": 527.9
   },
   {
    "id": "39KiV3pdW05aFQyfIBsm4t",
@@ -4666,7 +5512,9 @@
    "pop": 24.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 253.4,
+   "y": 523.8
   },
   {
    "id": "3LkSiHbjqOHCKCqBfEZOTv",
@@ -4677,7 +5525,9 @@
    "pop": 50.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 306.6,
+   "y": 523.9
   },
   {
    "id": "3LJJl2ijoYLexGyX6jU9gl",
@@ -4688,7 +5538,9 @@
    "pop": 16.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 363.4,
+   "y": 521.9
   },
   {
    "id": "3L58J6a7f0jyy2p6f3MSAs",
@@ -4699,7 +5551,9 @@
    "pop": 20.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 380.6,
+   "y": 542.7
   },
   {
    "id": "3JysSUOyfVs1UQ0UaESheP",
@@ -4710,7 +5564,9 @@
    "pop": 58.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 463.7,
+   "y": 525.7
   },
   {
    "id": "3JFsVIxOn7STeilPICkkB2",
@@ -4721,7 +5577,9 @@
    "pop": 34.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 514.0,
+   "y": 527.5
   },
   {
    "id": "3JC5wZYLLWOWavmvGB94ow",
@@ -4732,7 +5590,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 552.3,
+   "y": 536.2
   },
   {
    "id": "3IuE8RO3y9Y6MhNMOCFJH2",
@@ -4743,7 +5603,9 @@
    "pop": 8.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 616.5,
+   "y": 530.0
   },
   {
    "id": "3IJ770I1QPmwVp7yug0eJ4",
@@ -4754,7 +5616,9 @@
    "pop": 47.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 660.9,
+   "y": 535.2
   },
   {
    "id": "3IDqp4odlDTs1TWvh81Zf2",
@@ -4765,7 +5629,9 @@
    "pop": 27.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 723.7,
+   "y": 529.8
   },
   {
    "id": "3HVdAiMNjYrQIKlOGxoGh5",
@@ -4776,7 +5642,9 @@
    "pop": 75.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 788.9,
+   "y": 523.1
   },
   {
    "id": "3GVgOsmibqv2YZ7up7vrwa",
@@ -4787,7 +5655,9 @@
    "pop": 2.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 838.4,
+   "y": 525.3
   },
   {
    "id": "3FuzPmx49qjFhzbG99d9Kr",
@@ -4798,7 +5668,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 898.5,
+   "y": 521.5
   },
   {
    "id": "3Cnkej21cJ1XgbAh98CbaS",
@@ -4809,7 +5681,9 @@
    "pop": 39.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 956.9,
+   "y": 518.6
   },
   {
    "id": "3Cf1GbbU9uHlS3veYiAK2x",
@@ -4820,7 +5694,9 @@
    "pop": 31.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 979.1,
+   "y": 536.5
   },
   {
    "id": "3C58GRgq5hHpYE1EeY0ime",
@@ -4831,7 +5707,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1060.8,
+   "y": 520.3
   },
   {
    "id": "3FILKvtNoiEfCJO9qVNCNF",
@@ -4842,7 +5720,9 @@
    "pop": 42.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1088.1,
+   "y": 535.2
   },
   {
    "id": "3Ayl7mCk0nScecqOzvNp6s",
@@ -4853,7 +5733,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1151.4,
+   "y": 529.6
   },
   {
    "id": "38BuiP6gKoVusyyukSeqMa",
@@ -4864,7 +5746,9 @@
    "pop": 15.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1204.3,
+   "y": 529.9
   },
   {
    "id": "384RPjoLeqSOcy5qS9oQgX",
@@ -4875,7 +5759,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1254.9,
+   "y": 531.5
   },
   {
    "id": "37f9cjf8Ic4t7vYNRYAzI7",
@@ -4886,7 +5772,9 @@
    "pop": 49.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1304.8,
+   "y": 533.6
   },
   {
    "id": "37J1PlAkhRK7yrZUtqaUpQ",
@@ -4897,7 +5785,9 @@
    "pop": 56.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1377.8,
+   "y": 522.4
   },
   {
    "id": "35Uu85Pq33mK8x1jYqsHY2",
@@ -4908,7 +5798,9 @@
    "pop": 47.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1410.7,
+   "y": 534.1
   },
   {
    "id": "32raKeUHkfUVqgGHbIPD2u",
@@ -4919,7 +5811,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1470.3,
+   "y": 530.5
   },
   {
    "id": "31Eoi17HcQM7ElqMMXIUU3",
@@ -4930,7 +5824,9 @@
    "pop": 21.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1534.1,
+   "y": 524.6
   },
   {
    "id": "319rafipfKvd4cqaOwWIvA",
@@ -4941,7 +5837,9 @@
    "pop": 53.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 61.1,
+   "y": 572.6
   },
   {
    "id": "312CXoyqdQ0p6ZJ67NJoVa",
@@ -4952,7 +5850,9 @@
    "pop": 48.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 116.8,
+   "y": 571.3
   },
   {
    "id": "2xiIXseIJcq3nG7C8fHeBj",
@@ -4963,7 +5863,9 @@
    "pop": 74.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 199.1,
+   "y": 554.9
   },
   {
    "id": "2wPOgnQ6eW3X73uIJZ4YFE",
@@ -4974,7 +5876,9 @@
    "pop": 58.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 237.0,
+   "y": 563.7
   },
   {
    "id": "2ye2Wgw4gimLv2eAKyk1NB",
@@ -4985,7 +5889,9 @@
    "pop": 68.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 294.7,
+   "y": 561.3
   },
   {
    "id": "2vhrwzjf9H3icunkVFi9tq",
@@ -4996,7 +5902,9 @@
    "pop": 57.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 341.6,
+   "y": 565.0
   },
   {
    "id": "2vH7B6YvHO3AHVb9R8bYi8",
@@ -5007,7 +5915,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 404.6,
+   "y": 559.5
   },
   {
    "id": "2tRsMl4eGxwoNabM08Dm4I",
@@ -5018,7 +5928,9 @@
    "pop": 68.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 453.2,
+   "y": 562.3
   },
   {
    "id": "2pH3wEn4eYlMMIIQyKPbVR",
@@ -5029,7 +5941,9 @@
    "pop": 39.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 527.5,
+   "y": 550.3
   },
   {
    "id": "2o18h28enlHxj887tATc58",
@@ -5040,7 +5954,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 569.3,
+   "y": 557.0
   },
   {
    "id": "2mZITUvfEwrKlksoGpHTsM",
@@ -5051,7 +5967,9 @@
    "pop": 52.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 612.3,
+   "y": 563.0
   },
   {
    "id": "2ipMoKk1ZQMUlzPIOWbuTp",
@@ -5062,7 +5980,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 667.7,
+   "y": 561.8
   },
   {
    "id": "2frn30cyNJHth8eZrxJa3X",
@@ -5073,7 +5993,9 @@
    "pop": 31.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 705.2,
+   "y": 570.9
   },
   {
    "id": "2egqZI7Cz9JqioUoUBxM9H",
@@ -5084,7 +6006,9 @@
    "pop": 29.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 756.6,
+   "y": 572.1
   },
   {
    "id": "0H9jSU3W2vDAHzexl3GEbl",
@@ -5095,7 +6019,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 832.6,
+   "y": 559.2
   },
   {
    "id": "0HtEZODdzPzZhdehDcF3fX",
@@ -5106,7 +6032,9 @@
    "pop": 33.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 887.7,
+   "y": 558.2
   },
   {
    "id": "0KV2B2b0q24rEawMkFmQvD",
@@ -5117,7 +6045,9 @@
    "pop": 20.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 955.4,
+   "y": 550.0
   },
   {
    "id": "0L5fC7Ogm2YwgqVCRcF1bT",
@@ -5128,7 +6058,9 @@
    "pop": 36.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 990.0,
+   "y": 560.8
   },
   {
    "id": "4sj6D0zlMOl25nprDJBiU9",
@@ -5139,7 +6071,9 @@
    "pop": 49.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1032.0,
+   "y": 567.4
   },
   {
    "id": "0M06jtxqFqV8P4vy5LCmUU",
@@ -5150,7 +6084,9 @@
    "pop": 22.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1094.2,
+   "y": 562.3
   },
   {
    "id": "0MCx3EcBHDcEb2nFUCMxSu",
@@ -5161,7 +6097,9 @@
    "pop": 41.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1142.9,
+   "y": 565.0
   },
   {
    "id": "2Y6yi5MrD1GR14YM8qNCjw",
@@ -5172,7 +6110,9 @@
    "pop": 24.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1212.9,
+   "y": 555.6
   },
   {
    "id": "2Tkg8omOIsTL617yXVt26e",
@@ -5183,7 +6123,9 @@
    "pop": 50.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1245.9,
+   "y": 567.2
   },
   {
    "id": "2RTUTCvo6onsAnheUk3aL9",
@@ -5194,7 +6136,9 @@
    "pop": 78.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1311.8,
+   "y": 560.1
   },
   {
    "id": "2NPduAUeLVsfIauhRwuft1",
@@ -5205,7 +6149,9 @@
    "pop": 20.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1384.5,
+   "y": 549.1
   },
   {
    "id": "2LBteY4vnSD2zKwAgzOijB",
@@ -5216,7 +6162,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1425.0,
+   "y": 556.4
   },
   {
    "id": "2KaW48xlLnXC2v8tvyhWsa",
@@ -5227,7 +6175,9 @@
    "pop": 34.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1455.2,
+   "y": 569.8
   },
   {
    "id": "2FBDDo06NZR5B7qOzmMxq9",
@@ -5238,7 +6188,9 @@
    "pop": 22.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1512.1,
+   "y": 567.8
   },
   {
    "id": "2DuJi13MWHjRHrqRUwk8vH",
@@ -5249,7 +6201,9 @@
    "pop": 59.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 82.5,
+   "y": 591.0
   },
   {
    "id": "2CXwRGFTYdcEAI44NT7qDR",
@@ -5260,7 +6214,9 @@
    "pop": 20.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 123.2,
+   "y": 598.3
   },
   {
    "id": "2CWWgbxApjbyByxBBCvGTm",
@@ -5271,7 +6227,9 @@
    "pop": 24.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 198.9,
+   "y": 585.5
   },
   {
    "id": "2C9q5uzKW2dzKTRgrBwlO9",
@@ -5282,7 +6240,9 @@
    "pop": 20.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 224.9,
+   "y": 601.2
   },
   {
    "id": "28eLrVsohdXynlnIzQ2VvI",
@@ -5293,7 +6253,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 300.3,
+   "y": 588.6
   },
   {
    "id": "28D0LIS1y01QS8fbh9dXVk",
@@ -5304,7 +6266,9 @@
    "pop": 35.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 356.1,
+   "y": 587.3
   },
   {
    "id": "27qG899eLldfpYtPr3S3NJ",
@@ -5315,7 +6279,9 @@
    "pop": 45.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 394.4,
+   "y": 595.9
   },
   {
    "id": "278ZYwGhdK6QTzE3MFePnP",
@@ -5326,7 +6292,9 @@
    "pop": 54.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 471.0,
+   "y": 582.6
   },
   {
    "id": "25yCmYx78hTeQu2RD7ZAvz",
@@ -5337,7 +6305,9 @@
    "pop": 14.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 498.2,
+   "y": 597.6
   },
   {
    "id": "25hWK9jrZMhT6bt3WvORpE",
@@ -5348,7 +6318,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 565.4,
+   "y": 589.8
   },
   {
    "id": "21UBtmJLMvV0OWBpy1hX6E",
@@ -5359,7 +6331,9 @@
    "pop": 20.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 608.4,
+   "y": 595.7
   },
   {
    "id": "1mBXJUab9jbcHhYxMuWbxO",
@@ -5370,7 +6344,9 @@
    "pop": 22.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 673.2,
+   "y": 589.2
   },
   {
    "id": "1jgV4XBFI1uRSLxFigvDcD",
@@ -5381,7 +6357,9 @@
    "pop": 22.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 731.4,
+   "y": 586.5
   },
   {
    "id": "1jH1BbeNbZBvIgDwxGIJhe",
@@ -5392,7 +6370,9 @@
    "pop": 34.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 768.9,
+   "y": 595.6
   },
   {
    "id": "1d5wNTZ8WZYE5WuXXjug9w",
@@ -5403,7 +6383,9 @@
    "pop": 49.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 843.4,
+   "y": 583.5
   },
   {
    "id": "1ZjAT2nTrzDIXFfsQ2hWJk",
@@ -5414,7 +6396,9 @@
    "pop": 63.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 870.8,
+   "y": 598.4
   },
   {
    "id": "1XpDYCrUJnvCo9Ez6yeMWh",
@@ -5425,7 +6409,9 @@
    "pop": 61.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 931.0,
+   "y": 594.5
   },
   {
    "id": "1WNoKxsp715jez1Td4vthc",
@@ -5437,7 +6423,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 1006.6,
+   "y": 581.9
   },
   {
    "id": "1UdQqCUR7RwB9YYJONwbdM",
@@ -5448,7 +6436,9 @@
    "pop": 61.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1062.8,
+   "y": 580.3
   },
   {
    "id": "1JPy5PsJtkhftfdr6saN2i",
@@ -5459,7 +6449,9 @@
    "pop": 26.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1113.0,
+   "y": 582.2
   },
   {
    "id": "0b2B3PwcYzQAhuJacmcYgc",
@@ -5470,7 +6462,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1168.6,
+   "y": 580.9
   },
   {
    "id": "0aG9IlDRxMn7weGTmbvWoH",
@@ -5481,7 +6475,9 @@
    "pop": 27.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1217.8,
+   "y": 583.3
   },
   {
    "id": "0dG3N31PXKZKVipFUqY1jz",
@@ -5492,7 +6488,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1249.4,
+   "y": 595.8
   },
   {
    "id": "0Y2Zvpo631ACDnYOllivYM",
@@ -5503,7 +6501,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1312.9,
+   "y": 590.1
   },
   {
    "id": "0VISYjYCuvvav6cKEgyfGa",
@@ -5514,7 +6514,9 @@
    "pop": 35.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1353.7,
+   "y": 597.3
   },
   {
    "id": "0Uj2hge2fxypJ7f4ik6lpr",
@@ -5525,7 +6527,9 @@
    "pop": 44.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1407.7,
+   "y": 596.9
   },
   {
    "id": "0Qeg2Ytz5AcfvkIO3RYV3z",
@@ -5536,7 +6540,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1482.6,
+   "y": 584.6
   },
   {
    "id": "0hGpZy6ws8FofByMkt0CV1",
@@ -5547,7 +6553,9 @@
    "pop": 42.2,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1527.3,
+   "y": 589.6
   },
   {
    "id": "5P8Ct7s1sEIi7sQGLIf8bj",
@@ -5558,7 +6566,9 @@
    "pop": 3.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 97.4,
+   "y": 613.0
   },
   {
    "id": "7ffvGdC1Py6dl2SSalf0MR",
@@ -5569,7 +6579,9 @@
    "pop": 23.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 115.1,
+   "y": 633.4
   },
   {
    "id": "0Mhb0DUXc1JLm22wUkNHC1",
@@ -5580,7 +6592,9 @@
    "pop": 33.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 197.0,
+   "y": 617.1
   },
   {
    "id": "6RIRplpyp79REfeBrvW8rH",
@@ -5591,7 +6605,9 @@
    "pop": 62.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 238.8,
+   "y": 623.8
   },
   {
    "id": "1GfzxrTlFX1DmRSVqMUvaD",
@@ -5602,7 +6618,9 @@
    "pop": 19.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 281.1,
+   "y": 630.2
   },
   {
    "id": "1E4r4z7ivGUcSAnCbINJ9v",
@@ -5613,7 +6631,9 @@
    "pop": 59.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 358.4,
+   "y": 616.5
   },
   {
    "id": "1AZ30JnvQU1pbX6sbRE0Yn",
@@ -5624,7 +6644,9 @@
    "pop": 43.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 393.0,
+   "y": 627.3
   },
   {
    "id": "15ik2WuPUQmVdhMtuFtmaQ",
@@ -5635,7 +6657,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 469.1,
+   "y": 614.3
   },
   {
    "id": "165ZgPlLkK7bf5bDoFc6Sb",
@@ -5646,7 +6670,9 @@
    "pop": 78.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 522.1,
+   "y": 614.6
   },
   {
    "id": "14SgKNlOCKAI0PfRD1HnWh",
@@ -5657,7 +6683,9 @@
    "pop": 29.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 556.3,
+   "y": 625.6
   },
   {
    "id": "135gYIRXAwhRKtFIh8mehP",
@@ -5668,7 +6696,9 @@
    "pop": 27.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 607.1,
+   "y": 627.0
   },
   {
    "id": "0KDuKk6YdEu3hR56HtXmxt",
@@ -5679,7 +6709,9 @@
    "pop": 61.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 685.4,
+   "y": 612.8
   },
   {
    "id": "0KhNfXO8YvC5PAztqARMYb",
@@ -5690,7 +6722,9 @@
    "pop": 33.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 730.3,
+   "y": 617.7
   },
   {
    "id": "0NKzd39Z5FDByzfTwqXq1c",
@@ -5701,7 +6735,9 @@
    "pop": 10.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 788.4,
+   "y": 615.0
   },
   {
    "id": "0PMYvG0U25tgSi8jQExPAC",
@@ -5712,7 +6748,9 @@
    "pop": 22.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 835.1,
+   "y": 618.9
   },
   {
    "id": "0QCBJIr2GRiyvCx6ZJOGKH",
@@ -5723,7 +6761,9 @@
    "pop": 33.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 890.0,
+   "y": 618.0
   },
   {
    "id": "0RqtSIYZmd4fiBKVFqyIqD",
@@ -5734,7 +6774,9 @@
    "pop": 62.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 946.8,
+   "y": 616.1
   },
   {
    "id": "0X380XXQSNBYuleKzav5UO",
@@ -5745,7 +6787,9 @@
    "pop": 60.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 986.9,
+   "y": 623.7
   },
   {
    "id": "0YGfQfOPRI89rtSReS9J4H",
@@ -5756,7 +6800,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1022.6,
+   "y": 633.9
   },
   {
    "id": "0b3Ih1VYdJfBfCPulSWBoA",
@@ -5767,7 +6813,9 @@
    "pop": 40.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1096.4,
+   "y": 622.2
   },
   {
    "id": "2JDEtAc1gGiAbCvjUnK2iZ",
@@ -5778,7 +6826,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1160.6,
+   "y": 616.0
   },
   {
    "id": "37394IP6uhnjIpsawpMu4l",
@@ -5789,7 +6839,9 @@
    "pop": 69.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1187.0,
+   "y": 631.5
   },
   {
    "id": "34uGMERnU9XHnmQDnK03Gj",
@@ -5800,7 +6852,9 @@
    "pop": 17.7,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1260.0,
+   "y": 620.3
   },
   {
    "id": "31Tfxkj0HCfFgEjluRPSMi",
@@ -5811,7 +6865,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1299.9,
+   "y": 628.0
   },
   {
    "id": "0oBnqw8fhiboYvutyvpkTF",
@@ -5822,7 +6878,9 @@
    "pop": 27.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1378.5,
+   "y": 613.6
   },
   {
    "id": "0nnwM2DCigrExUZ0SQzoiC",
@@ -5833,7 +6891,9 @@
    "pop": 38.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1423.4,
+   "y": 618.5
   },
   {
    "id": "2mcNCn1qbZUQ3J9KHapUxj",
@@ -5844,7 +6904,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1481.7,
+   "y": 615.7
   },
   {
    "id": "2vd2HnNh4pdYa9gDVHFjEu",
@@ -5855,7 +6917,9 @@
    "pop": 60.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1530.4,
+   "y": 618.4
   },
   {
    "id": "2sVaW0noYw5antHR3te8lQ",
@@ -5866,7 +6930,9 @@
    "pop": 26.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 92.1,
+   "y": 646.6
   },
   {
    "id": "2otRZcOVNcmdkZ5nEoogy6",
@@ -5877,7 +6943,9 @@
    "pop": 42.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 145.8,
+   "y": 646.4
   },
   {
    "id": "0nmQIMXWTXfhgOBdNzhGOs",
@@ -5888,7 +6956,9 @@
    "pop": 75.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 183.5,
+   "y": 655.4
   },
   {
    "id": "2McLd7klWE4UjkPLqqMwLv",
@@ -5899,7 +6969,9 @@
    "pop": 47.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 248.0,
+   "y": 649.1
   },
   {
    "id": "2oNCECFNcwGMZTYbUBo0HD",
@@ -5910,7 +6982,9 @@
    "pop": 32.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 278.6,
+   "y": 662.2
   },
   {
    "id": "2jqA2OsMhBDu0M2GLDIvsH",
@@ -5921,7 +6995,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 362.0,
+   "y": 645.0
   },
   {
    "id": "6SyqLkNwRYl5nXTRpfodcG",
@@ -5932,7 +7008,9 @@
    "pop": 36.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 418.1,
+   "y": 643.5
   },
   {
    "id": "2iLpvtffIrQ4bMYrFPRN4x",
@@ -5943,7 +7021,9 @@
    "pop": 46.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 450.1,
+   "y": 655.7
   },
   {
    "id": "2g98DnPyHWcZXg8cLg0sNF",
@@ -5954,7 +7034,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 525.1,
+   "y": 643.4
   },
   {
    "id": "2dXmVYqg3jWUmkv7j4aWyb",
@@ -5965,7 +7047,9 @@
    "pop": 7.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 570.2,
+   "y": 648.2
   },
   {
    "id": "2YzUXecwzcOdlJsnpnJfkJ",
@@ -5976,7 +7060,9 @@
    "pop": 40.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 627.6,
+   "y": 645.9
   },
   {
    "id": "2VYQTNDsvvKN9wmU5W7xpj",
@@ -5987,7 +7073,9 @@
    "pop": 58.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 666.3,
+   "y": 654.3
   },
   {
    "id": "2S3xwpueZpPVUDTTv7Wefx",
@@ -5998,7 +7086,9 @@
    "pop": 41.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 711.9,
+   "y": 658.8
   },
   {
    "id": "2RyAx3MPzx4ESZOJOod2Hj",
@@ -6009,7 +7099,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 772.6,
+   "y": 654.6
   },
   {
    "id": "2Pfv2w8a20xzC7Dr7QXRqM",
@@ -6020,7 +7112,9 @@
    "pop": 70.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 822.9,
+   "y": 656.4
   },
   {
    "id": "2OtjVAtqLn5ee8vq9u74Ye",
@@ -6031,7 +7125,9 @@
    "pop": 24.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 871.5,
+   "y": 659.2
   },
   {
    "id": "2N8IPNZTiNo3nj4mreOlHU",
@@ -6042,7 +7138,9 @@
    "pop": 49.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 947.9,
+   "y": 646.0
   },
   {
    "id": "2MqhkhX4npxDZ62ObR5ELO",
@@ -6053,7 +7151,9 @@
    "pop": 43.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1008.2,
+   "y": 642.1
   },
   {
    "id": "2MJSxITepZQye0vuZfgfcY",
@@ -6064,7 +7164,9 @@
    "pop": 27.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1037.9,
+   "y": 655.7
   },
   {
    "id": "2AaXJio3SapR5wkqyg7o6D",
@@ -6075,7 +7177,9 @@
    "pop": 14.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1084.1,
+   "y": 659.8
   },
   {
    "id": "1dDTkRz9WVOQr63enjJ1Yd",
@@ -6086,7 +7190,9 @@
    "pop": 29.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1131.8,
+   "y": 663.1
   },
   {
    "id": "0Dd8AchLVLMRRwSgdOC8GA",
@@ -6097,7 +7203,9 @@
    "pop": 28.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1189.8,
+   "y": 660.4
   },
   {
    "id": "2FzBfLO85pYbw7sZ9LdHys",
@@ -6108,7 +7216,9 @@
    "pop": 26.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1277.9,
+   "y": 640.6
   },
   {
    "id": "2FK0OPnng20MwV4TCnm0Ei",
@@ -6119,7 +7229,9 @@
    "pop": 28.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1303.7,
+   "y": 656.4
   },
   {
    "id": "29fyAsYdzkCIH96xB40um1",
@@ -6130,7 +7242,9 @@
    "pop": 47.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1376.4,
+   "y": 645.4
   },
   {
    "id": "28DlNBW2UlEVVgTuCcYtTe",
@@ -6141,7 +7255,9 @@
    "pop": 50.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1423.6,
+   "y": 648.9
   },
   {
    "id": "24nDtf6EN7dVOuXYmcuHej",
@@ -6152,7 +7268,9 @@
    "pop": 18.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1468.7,
+   "y": 653.7
   },
   {
    "id": "0XyWrKlieKYjGrIkA3Kieq",
@@ -6163,7 +7281,9 @@
    "pop": 22.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1526.1,
+   "y": 651.4
   },
   {
    "id": "4tw2Lmn9tTPUv7Gy7mVPI4",
@@ -6174,7 +7294,9 @@
    "pop": 74.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 101.3,
+   "y": 671.9
   },
   {
    "id": "3Y3xIwWyq5wnNHPp5gPjOW",
@@ -6185,7 +7307,9 @@
    "pop": 67.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 130.2,
+   "y": 685.9
   },
   {
    "id": "5goS0v24Fc1ydjCKQRwtjM",
@@ -6196,7 +7320,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 191.9,
+   "y": 681.2
   },
   {
    "id": "6pAwHPeExeUbMd5w7Iny6D",
@@ -6207,7 +7333,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 231.3,
+   "y": 689.2
   },
   {
    "id": "4WMHJgeJCssiGW3ssUT7eb",
@@ -6218,7 +7346,9 @@
    "pop": 7.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 307.4,
+   "y": 676.3
   },
   {
    "id": "1JOQXgYdQV2yfrhewqx96o",
@@ -6229,7 +7359,9 @@
    "pop": 55.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 362.5,
+   "y": 675.3
   },
   {
    "id": "0roWUeP7Ac4yK4VN6L2gF4",
@@ -6240,7 +7372,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 391.3,
+   "y": 689.4
   },
   {
    "id": "4P70aqttdpJ9vuYFDmf7f6",
@@ -6251,7 +7385,9 @@
    "pop": 40.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 439.4,
+   "y": 692.4
   },
   {
    "id": "1Nc6H2qbH5SljekjNBTX7m",
@@ -6262,7 +7398,9 @@
    "pop": 25.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 496.3,
+   "y": 690.4
   },
   {
    "id": "21fmCv0mg9Xwnv3WE4mFKu",
@@ -6273,7 +7411,9 @@
    "pop": 20.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 562.8,
+   "y": 682.9
   },
   {
    "id": "1xJ6l1VXgGuyZ0uhu27caF",
@@ -6284,7 +7424,9 @@
    "pop": 57.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 616.4,
+   "y": 682.8
   },
   {
    "id": "1xE3snzm12GBK259IqEFlY",
@@ -6295,7 +7437,9 @@
    "pop": 44.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 671.6,
+   "y": 681.8
   },
   {
    "id": "1scIUjz7Jbq1mOph50OLQO",
@@ -6306,7 +7450,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 714.9,
+   "y": 687.6
   },
   {
    "id": "1r38C6nsC5srBtvXRLWRmg",
@@ -6317,7 +7463,9 @@
    "pop": 28.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 756.1,
+   "y": 694.6
   },
   {
    "id": "6ncUTZAXal93c05AUvr94d",
@@ -6328,7 +7476,9 @@
    "pop": 22.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 826.1,
+   "y": 685.1
   },
   {
    "id": "1pmwwNA38kkkJwEMWe8hLD",
@@ -6339,7 +7489,9 @@
    "pop": 3.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 861.7,
+   "y": 695.4
   },
   {
    "id": "1pXT9wt3jNgkk4AVvAydBm",
@@ -6350,7 +7502,9 @@
    "pop": 42.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 915.9,
+   "y": 694.9
   },
   {
    "id": "1oeo6cC9Fqa2bxxv67qBQL",
@@ -6361,7 +7515,9 @@
    "pop": 33.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 971.9,
+   "y": 693.4
   },
   {
    "id": "1oA1SW4FRAis6e8krh5YAf",
@@ -6372,7 +7528,9 @@
    "pop": 45.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1049.5,
+   "y": 679.6
   },
   {
    "id": "1kxRMqSkOQcloHdyXoumKo",
@@ -6383,7 +7541,9 @@
    "pop": 9.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1102.4,
+   "y": 679.9
   },
   {
    "id": "1bqlyIXRTCilCmvAr1newg",
@@ -6394,7 +7554,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1165.5,
+   "y": 674.3
   },
   {
    "id": "1ZP10xzJoQljzTHiaU2Gri",
@@ -6405,7 +7567,9 @@
    "pop": 40.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1189.4,
+   "y": 691.3
   },
   {
    "id": "1Wr0V8NrAzBp0ftehUXb19",
@@ -6416,7 +7580,9 @@
    "pop": 29.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1273.2,
+   "y": 673.9
   },
   {
    "id": "1UKdnbreQFDmPg3Mhcjhkr",
@@ -6427,7 +7593,9 @@
    "pop": 35.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1295.9,
+   "y": 691.5
   },
   {
    "id": "1Tm5STqbzJ39okZK1y6UWK",
@@ -6438,7 +7606,9 @@
    "pop": 8.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1376.8,
+   "y": 675.7
   },
   {
    "id": "5wGGf4E4wifwmFsblUVdA5",
@@ -6449,7 +7619,9 @@
    "pop": 22.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1421.8,
+   "y": 680.5
   },
   {
    "id": "1NcsVSxFdXsnwvE64zV9xX",
@@ -6460,7 +7632,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1486.9,
+   "y": 673.9
   },
   {
    "id": "1OiOWEQ9miUl9QbCX5JNza",
@@ -6471,7 +7645,9 @@
    "pop": 38.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1510.2,
+   "y": 691.1
   },
   {
    "id": "1O8CSXsPwEqxcoBE360PPO",
@@ -6482,7 +7658,9 @@
    "pop": 57.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 61.4,
+   "y": 725.3
   },
   {
    "id": "1Mcy1ngqEXUXXEQEpUDGix",
@@ -6493,7 +7671,9 @@
    "pop": 25.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 119.8,
+   "y": 722.4
   },
   {
    "id": "1jf18UNlvDrLdEixB3yXNo",
@@ -6504,7 +7684,9 @@
    "pop": 13.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 181.0,
+   "y": 718.0
   },
   {
    "id": "1JcAuqweEITHJ8DwDkobXx",
@@ -6515,7 +7697,9 @@
    "pop": 19.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 259.4,
+   "y": 703.7
   },
   {
    "id": "1KEUVZo7CMTSJoM8doulOT",
@@ -6526,7 +7710,9 @@
    "pop": 17.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 284.6,
+   "y": 719.8
   },
   {
    "id": "1IiV8FBjS5XaKcUmmgyGRn",
@@ -6537,7 +7723,9 @@
    "pop": 11.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 347.2,
+   "y": 714.6
   },
   {
    "id": "1Ih0fEQQsy9EeAJbYEeQRa",
@@ -6548,7 +7736,9 @@
    "pop": 52.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 391.5,
+   "y": 719.8
   },
   {
    "id": "4ynrvqlHgWq7C3vQO5Rlyr",
@@ -6559,7 +7749,9 @@
    "pop": 38.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 438.7,
+   "y": 723.4
   },
   {
    "id": "3eabX7aDVkNUvMqSxzOuLj",
@@ -6570,7 +7762,9 @@
    "pop": 12.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 492.6,
+   "y": 723.1
   },
   {
    "id": "1IQ2e1buppatiN1bxUVkrk",
@@ -6581,7 +7775,9 @@
    "pop": 67.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 578.4,
+   "y": 704.6
   },
   {
    "id": "1Gh3UMZ0WVesXifHfziSx9",
@@ -6592,7 +7788,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 619.0,
+   "y": 711.9
   },
   {
    "id": "1DXylZlWbVvlckNqwvjTEt",
@@ -6603,7 +7801,9 @@
    "pop": 52.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 666.4,
+   "y": 715.4
   },
   {
    "id": "1C08PKH51P2fcJMrPOFRwI",
@@ -6614,7 +7814,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 708.3,
+   "y": 722.0
   },
   {
    "id": "1AYs2fxCu0pV8iKaguz4po",
@@ -6625,7 +7827,9 @@
    "pop": 23.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 783.4,
+   "y": 709.6
   },
   {
    "id": "1AYR9Ow3g2tzBY9mQYCZUv",
@@ -6636,7 +7840,9 @@
    "pop": 25.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 809.4,
+   "y": 725.2
   },
   {
    "id": "17Mb968quDHpjCkIyq30QV",
@@ -6647,7 +7853,9 @@
    "pop": 60.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 867.9,
+   "y": 722.4
   },
   {
    "id": "16fltNcwTM5V9rnxIlcha4",
@@ -6658,7 +7866,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 952.4,
+   "y": 704.6
   },
   {
    "id": "16AVsBqzmIZTNHd0eX8VbK",
@@ -6669,7 +7879,9 @@
    "pop": 45.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 997.9,
+   "y": 709.1
   },
   {
    "id": "159qqlGwzE04xyqpfAwRLo",
@@ -6680,7 +7892,9 @@
    "pop": 63.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1034.1,
+   "y": 718.9
   },
   {
    "id": "14u4KXVp0iXQil79EpxXGc",
@@ -6691,7 +7905,9 @@
    "pop": 37.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1078.0,
+   "y": 724.4
   },
   {
    "id": "0pnd3MP2rxAzljR9AqXUJB",
@@ -6702,7 +7918,9 @@
    "pop": 51.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1167.7,
+   "y": 703.6
   },
   {
    "id": "14sYTbULWFBnWzbpUCeFWQ",
@@ -6713,7 +7931,9 @@
    "pop": 49.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1189.5,
+   "y": 721.8
   },
   {
    "id": "14HNd6ACWtKn6ooDpCb65N",
@@ -6724,7 +7944,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1252.3,
+   "y": 716.4
   },
   {
    "id": "13ab1LgQZ3tQOhkDRRYB8Y",
@@ -6735,7 +7957,9 @@
    "pop": 51.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1318.8,
+   "y": 708.9
   },
   {
    "id": "11EAP8MX0cfrW9lzkK424H",
@@ -6746,7 +7970,9 @@
    "pop": 28.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1360.9,
+   "y": 715.4
   },
   {
    "id": "1189BemPY7h2lgaH1pkzGX",
@@ -6757,7 +7983,9 @@
    "pop": 51.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1412.6,
+   "y": 716.4
   },
   {
    "id": "0zfT626RwO6zN3RDYeRit5",
@@ -6768,7 +7996,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1462.9,
+   "y": 718.2
   },
   {
    "id": "0ykT1si9XRFPmEvWOnf4YI",
@@ -6779,7 +8009,9 @@
    "pop": 56.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1536.2,
+   "y": 706.8
   },
   {
    "id": "5eI2W20eDWbfbzNOSV3tGr",
@@ -6790,7 +8022,9 @@
    "pop": 25.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 86.5,
+   "y": 741.5
   },
   {
    "id": "7bilGapSj1WZLurqTLhgOe",
@@ -6801,7 +8035,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 127.9,
+   "y": 748.4
   },
   {
    "id": "0w2KUuMj7dvP8dV4tzoltd",
@@ -6812,7 +8048,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 201.3,
+   "y": 736.9
   },
   {
    "id": "0sR0sGTiOykFU1JVXeHPJw",
@@ -6823,7 +8061,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 241.5,
+   "y": 744.5
   },
   {
    "id": "0piWuq9a2tD7b5UY7a2oQH",
@@ -6834,7 +8074,9 @@
    "pop": 34.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 296.1,
+   "y": 743.8
   },
   {
    "id": "0oxUux1OSwZpIpSK0JbqSS",
@@ -6845,7 +8087,9 @@
    "pop": 30.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 356.3,
+   "y": 739.9
   },
   {
    "id": "0rEuaTPLMhlViNCJrg3NEH",
@@ -6856,7 +8100,9 @@
    "pop": 65.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 400.9,
+   "y": 745.0
   },
   {
    "id": "6qtECqesbU29iftyeWmldK",
@@ -6867,7 +8113,9 @@
    "pop": 36.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 468.9,
+   "y": 736.7
   },
   {
    "id": "0m9MRvdIdPp3cR1JkaEVip",
@@ -6878,7 +8126,9 @@
    "pop": 16.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 500.5,
+   "y": 749.2
   },
   {
    "id": "0lVlNsuGaOr9vMHCZIAKMt",
@@ -6889,7 +8139,9 @@
    "pop": 46.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 551.3,
+   "y": 750.6
   },
   {
    "id": "0krXCIkthz13P8o0v2tksH",
@@ -6900,7 +8152,9 @@
    "pop": 41.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 602.3,
+   "y": 752.0
   },
   {
    "id": "0gNkDUN42nBxKOcpoF7iQ4",
@@ -6911,7 +8165,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 681.1,
+   "y": 737.5
   },
   {
    "id": "0kO2SRhHlmMIeyJHfHy3c9",
@@ -6922,7 +8178,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 701.9,
+   "y": 756.2
   },
   {
    "id": "0jQV6VI93l1QvUvmFHvOmg",
@@ -6933,7 +8191,9 @@
    "pop": 10.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 759.9,
+   "y": 753.6
   },
   {
    "id": "0iDagYU2nu7gTWMdtCxzxW",
@@ -6944,7 +8204,9 @@
    "pop": 38.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 823.0,
+   "y": 748.0
   },
   {
    "id": "0hk3NBCfedrc9J4qj27UxG",
@@ -6955,7 +8217,9 @@
    "pop": 26.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 892.6,
+   "y": 738.8
   },
   {
    "id": "0gIo6kGl4KsCeIbqtZVHYp",
@@ -6966,7 +8230,9 @@
    "pop": 25.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 920.9,
+   "y": 753.1
   },
   {
    "id": "1g1nVvle9qO9AWIUWYvPAP",
@@ -6977,7 +8243,9 @@
    "pop": 51.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 993.8,
+   "y": 742.0
   },
   {
    "id": "6Fi8CHfO8WGtu3yO8c2Mc4",
@@ -6988,7 +8256,9 @@
    "pop": 55.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1032.9,
+   "y": 750.2
   },
   {
    "id": "5KEG7G8LDYlHgFDqZyEEs2",
@@ -6999,7 +8269,9 @@
    "pop": 53.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1101.9,
+   "y": 741.3
   },
   {
    "id": "2OsQYUDCBTHQjEA9w620Hu",
@@ -7010,7 +8282,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1162.1,
+   "y": 737.4
   },
   {
    "id": "7eVbT3G1ggf2sz6s7ZV0Ap",
@@ -7021,7 +8295,9 @@
    "pop": 33.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1187.1,
+   "y": 753.7
   },
   {
    "id": "6FITmSxIMsk6TfulFiCIIz",
@@ -7032,7 +8308,9 @@
    "pop": 26.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1246.7,
+   "y": 750.2
   },
   {
    "id": "7b85ve82Sh36a3UAx74wut",
@@ -7043,7 +8321,9 @@
    "pop": 69.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1301.6,
+   "y": 749.3
   },
   {
    "id": "1SN71xW3yOVbPgsGFBMXTZ",
@@ -7054,7 +8334,9 @@
    "pop": 8.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1383.4,
+   "y": 733.1
   },
   {
    "id": "5l8VQNuIg0turYE1VtM9zV",
@@ -7065,7 +8347,9 @@
    "pop": 65.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1436.8,
+   "y": 733.1
   },
   {
    "id": "5e7Nvd2I25hvXiAWgXNyPB",
@@ -7076,7 +8360,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1459.1,
+   "y": 750.9
   },
   {
    "id": "22eMBt55I5aO9IdxVdxGaC",
@@ -7087,7 +8373,9 @@
    "pop": 8.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1540.0,
+   "y": 735.2
   },
   {
    "id": "6aPHIKlNyeJBCnSFTkqcUa",
@@ -7098,7 +8386,9 @@
    "pop": 31.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 80.8,
+   "y": 775.3
   },
   {
    "id": "4jfwVcXoNnfnU8xQBlSWn0",
@@ -7109,7 +8399,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 118.4,
+   "y": 784.4
   },
   {
    "id": "7m7M1TZdjufvYnpa5HnENr",
@@ -7120,7 +8412,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 192.8,
+   "y": 772.4
   },
   {
    "id": "5wTAi7QkpP6kp8a54lmTOq",
@@ -7131,7 +8425,9 @@
    "pop": 62.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 224.3,
+   "y": 784.9
   },
   {
    "id": "7y97mc3bZRFXzT2szRM4L4",
@@ -7142,7 +8438,9 @@
    "pop": 59.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 290.8,
+   "y": 777.4
   },
   {
    "id": "6s1pCNXcbdtQJlsnM1hRIA",
@@ -7153,7 +8451,9 @@
    "pop": 49.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 369.0,
+   "y": 763.3
   },
   {
    "id": "0IwlY33zbBXN7zlS9DP2Cj",
@@ -7164,7 +8464,9 @@
    "pop": 66.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 413.3,
+   "y": 768.5
   },
   {
    "id": "1nJvji2KIlWSseXRSlNYsC",
@@ -7175,7 +8477,9 @@
    "pop": 67.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 465.2,
+   "y": 769.4
   },
   {
    "id": "39FC9x5PaTNYHp5hwlaY4q",
@@ -7186,7 +8490,9 @@
    "pop": 52.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 522.8,
+   "y": 766.9
   },
   {
    "id": "7tVPrk0elbPlArtbGaYFzB",
@@ -7197,7 +8503,9 @@
    "pop": 26.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 569.4,
+   "y": 770.8
   },
   {
    "id": "07ATE522e8aDsEb0JVLYqg",
@@ -7208,7 +8516,9 @@
    "pop": 46.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 621.8,
+   "y": 771.4
   },
   {
    "id": "388Jc5WX2TxTOgGwXidDM7",
@@ -7219,7 +8529,9 @@
    "pop": 22.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 662.2,
+   "y": 778.9
   },
   {
    "id": "6tkdmfyBPDrOImHGNMg3Xh",
@@ -7230,7 +8542,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 716.2,
+   "y": 778.6
   },
   {
    "id": "09Z51O0q4AwHl7FjUUlFKw",
@@ -7241,7 +8555,9 @@
    "pop": 51.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 777.4,
+   "y": 774.1
   },
   {
    "id": "70cRZdQywnSFp9pnc2WTCE",
@@ -7252,7 +8568,9 @@
    "pop": 78.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 813.2,
+   "y": 784.2
   },
   {
    "id": "7cWnPCnFKYKg5W0JKaf118",
@@ -7263,7 +8581,9 @@
    "pop": 44.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 863.3,
+   "y": 786.1
   },
   {
    "id": "5aOk0TpKD3HlbC1jwCdu3M",
@@ -7274,7 +8594,9 @@
    "pop": 41.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 921.3,
+   "y": 783.5
   },
   {
    "id": "2Ct54gNxKnYLnXk9HhviMI",
@@ -7285,7 +8607,9 @@
    "pop": 45.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 972.4,
+   "y": 784.8
   },
   {
    "id": "4KmUqzBGTHWlO46RpvMBUq",
@@ -7296,7 +8620,9 @@
    "pop": 31.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1032.9,
+   "y": 780.7
   },
   {
    "id": "4nYzoPPyGFLPEaup9VvwHh",
@@ -7307,7 +8633,9 @@
    "pop": 6.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1092.3,
+   "y": 777.4
   },
   {
    "id": "0maicLMFF0aeHwJlQgZrNa",
@@ -7318,7 +8646,9 @@
    "pop": 31.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1166.6,
+   "y": 765.4
   },
   {
    "id": "2TCSfp0vl4f8a3XUPhQL4E",
@@ -7329,7 +8659,9 @@
    "pop": 18.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1221.8,
+   "y": 764.4
   },
   {
    "id": "1bkf8u8ot6vEpWTJFBzKZB",
@@ -7340,7 +8672,9 @@
    "pop": 51.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1268.5,
+   "y": 768.2
   },
   {
    "id": "4fnono0JCZFAeeaecrI7kg",
@@ -7351,7 +8685,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1304.5,
+   "y": 778.2
   },
   {
    "id": "28pvPjZ2n9xUBEHnMgupmh",
@@ -7362,7 +8698,9 @@
    "pop": 12.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1363.7,
+   "y": 774.9
   },
   {
    "id": "3jAi0hT0NhiHKG2kHl58k2",
@@ -7373,7 +8711,9 @@
    "pop": 3.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1398.9,
+   "y": 785.3
   },
   {
    "id": "1WXagRGw8AveVrRxDfUjli",
@@ -7384,7 +8724,9 @@
    "pop": 18.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1488.6,
+   "y": 764.6
   },
   {
    "id": "76FIrqIXxPrWx55KbL2oFv",
@@ -7395,7 +8737,9 @@
    "pop": 0.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1515.8,
+   "y": 779.6
   },
   {
    "id": "662RkpOvE7MIPWnfYbY5xs",
@@ -7406,7 +8750,9 @@
    "pop": 8.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 101.4,
+   "y": 794.1
   },
   {
    "id": "5eTq3PxbOh5vgeRXKNqPyV",
@@ -7417,7 +8763,9 @@
    "pop": 50.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 145.3,
+   "y": 799.5
   },
   {
    "id": "4CzUzn54Cp9TQr6a7JIlMZ",
@@ -7428,7 +8776,9 @@
    "pop": 55.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 173.7,
+   "y": 813.8
   },
   {
    "id": "3HLb9k75O3qP4GklxUGn7s",
@@ -7439,7 +8789,9 @@
    "pop": 53.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 257.0,
+   "y": 796.8
   },
   {
    "id": "1uXrhF4cZsmDQZDueF9uJT",
@@ -7450,7 +8802,9 @@
    "pop": 46.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 315.9,
+   "y": 793.6
   },
   {
    "id": "1TIQZBUSqWPrBZuh80x6Rz",
@@ -7461,7 +8815,9 @@
    "pop": 51.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 331.6,
+   "y": 815.2
   },
   {
    "id": "2HPYUQ6GsPbZHvkyYe2jdm",
@@ -7472,7 +8828,9 @@
    "pop": 29.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 417.6,
+   "y": 796.5
   },
   {
    "id": "7p74trSnuG5qnXSg1VQWoH",
@@ -7483,7 +8841,9 @@
    "pop": 7.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 461.7,
+   "y": 801.9
   },
   {
    "id": "62ggJuZV87VvP3sAHM0V3K",
@@ -7494,7 +8854,9 @@
    "pop": 55.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 514.8,
+   "y": 802.1
   },
   {
    "id": "4kHtgiRnpmFIV5Tm4BIs8l",
@@ -7505,7 +8867,9 @@
    "pop": 56.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 557.6,
+   "y": 808.2
   },
   {
    "id": "0SbGI4sb8dAKFZnK7RFyhz",
@@ -7516,7 +8880,9 @@
    "pop": 51.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 626.8,
+   "y": 799.2
   },
   {
    "id": "5sL9uDMwceYHPknnCLAAwJ",
@@ -7527,7 +8893,9 @@
    "pop": 43.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 663.1,
+   "y": 808.9
   },
   {
    "id": "2qcGTB5s2t9o2w9SrI719s",
@@ -7538,7 +8906,9 @@
    "pop": 56.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 709.5,
+   "y": 813.0
   },
   {
    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
@@ -7549,7 +8919,9 @@
    "pop": 76.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 786.4,
+   "y": 799.5
   },
   {
    "id": "3HR1xtIsUefdFnkI1XHgeA",
@@ -7560,7 +8932,9 @@
    "pop": 58.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 809.2,
+   "y": 817.1
   },
   {
    "id": "1km0R7wy712AzLkA1WjKET",
@@ -7571,7 +8945,9 @@
    "pop": 49.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 893.3,
+   "y": 799.5
   },
   {
    "id": "4xgKItxFWy60QLUKNetJvC",
@@ -7582,7 +8958,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 934.8,
+   "y": 806.3
   },
   {
    "id": "34jw2BbxjoYalTp8cJFCPv",
@@ -7593,7 +8971,9 @@
    "pop": 78.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 994.5,
+   "y": 802.7
   },
   {
    "id": "4NJhFmfw43RLBLjQvxDuRS",
@@ -7604,7 +8984,9 @@
    "pop": 59.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1024.0,
+   "y": 816.4
   },
   {
    "id": "2wOqMjp9TyABvtHdOSOTUS",
@@ -7615,7 +8997,9 @@
    "pop": 30.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1083.0,
+   "y": 813.2
   },
   {
    "id": "0lAWpj5szCSwM4rUMHYmrr",
@@ -7627,7 +9011,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 1161.9,
+   "y": 798.7
   },
   {
    "id": "5X4LWwbUFNzPkEas04uU82",
@@ -7639,7 +9025,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 1184.3,
+   "y": 816.4
   },
   {
    "id": "0CbeG1224FS58EUx4tPevZ",
@@ -7650,7 +9038,9 @@
    "pop": 63.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1236.8,
+   "y": 816.9
   },
   {
    "id": "2qk9voo8llSGYcZ6xrBzKx",
@@ -7662,7 +9052,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 1324.7,
+   "y": 797.2
   },
   {
    "id": "3L1iFJfRzE7yzilr2yGl6t",
@@ -7673,7 +9065,9 @@
    "pop": 41.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1384.3,
+   "y": 793.7
   },
   {
    "id": "0Zy4ncr8h1jd7Nzr9946fD",
@@ -7684,7 +9078,9 @@
    "pop": 58.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1408.1,
+   "y": 810.6
   },
   {
    "id": "4dTw5svKFBPnfijbi3H9eI",
@@ -7695,7 +9091,9 @@
    "pop": 51.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1478.1,
+   "y": 801.1
   },
   {
    "id": "707cnVfI3ISM4j5uzfTc7J",
@@ -7706,7 +9104,9 @@
    "pop": 47.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1505.6,
+   "y": 816.0
   },
   {
    "id": "0521x50ZcNqqT1fKMJg5c5",
@@ -7717,7 +9117,9 @@
    "pop": 42.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 94.2,
+   "y": 828.8
   },
   {
    "id": "3uliAYf4KyTkBpVf3BiWVv",
@@ -7729,7 +9131,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 115.1,
+   "y": 847.4
   },
   {
    "id": "7yPPzu5UdAK7yagQqjEZQm",
@@ -7741,7 +9145,9 @@
    "sources": [
     "spotify",
     "youtube"
-   ]
+   ],
+   "x": 173.2,
+   "y": 844.7
   },
   {
    "id": "1tt30ZdtXdSP1h3kccP9yG",
@@ -7752,7 +9158,9 @@
    "pop": 51.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 230.1,
+   "y": 842.7
   },
   {
    "id": "2pqd3HsfsvcBGtHvPOg6eg",
@@ -7763,7 +9171,9 @@
    "pop": 62.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 286.9,
+   "y": 840.8
   },
   {
    "id": "0E40KPKfyyqTXyPHbPf2ou",
@@ -7774,7 +9184,9 @@
    "pop": 40.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 348.0,
+   "y": 836.4
   },
   {
    "id": "7wEcQTGkugQxXzikls4izh",
@@ -7785,7 +9197,9 @@
    "pop": 24.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 416.6,
+   "y": 827.7
   },
   {
    "id": "4HFpzehKjow2WqU4EJ6Wy9",
@@ -7796,7 +9210,9 @@
    "pop": 51.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 447.2,
+   "y": 840.7
   },
   {
    "id": "0DbbnkFMhhDvinDYIiHhGS",
@@ -7807,7 +9223,9 @@
    "pop": 54.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 523.5,
+   "y": 827.7
   },
   {
    "id": "3AMut7lAb1JjINkn8Fmkhu",
@@ -7818,7 +9236,9 @@
    "pop": 52.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 574.9,
+   "y": 828.8
   },
   {
    "id": "1V11dLSYwlT8A48DiF6l5W",
@@ -7829,7 +9249,9 @@
    "pop": 51.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 633.9,
+   "y": 825.6
   },
   {
    "id": "2R63sdnxz8keJDg15ZBAJV",
@@ -7840,7 +9262,9 @@
    "pop": 16.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 684.0,
+   "y": 827.5
   },
   {
    "id": "4MAvEYtgY8yNljGP697n4F",
@@ -7851,7 +9275,9 @@
    "pop": 55.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 742.5,
+   "y": 824.7
   },
   {
    "id": "02seUFsFQP7TH4hLrTj77o",
@@ -7862,7 +9288,9 @@
    "pop": 67.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 777.7,
+   "y": 835.0
   },
   {
    "id": "1PKErrAhYFdfrDymGHRQRo",
@@ -7873,7 +9301,9 @@
    "pop": 59.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 826.8,
+   "y": 837.5
   },
   {
    "id": "7HBn9gTbrzm4t8YG1mI17H",
@@ -7884,7 +9314,9 @@
    "pop": 7.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 871.7,
+   "y": 842.4
   },
   {
    "id": "31jvzuB4ikftPQZJwrYfCF",
@@ -7895,7 +9327,9 @@
    "pop": 53.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 919.0,
+   "y": 845.9
   },
   {
    "id": "1rz63vm0zczLhGIQJyhf3g",
@@ -7906,7 +9340,9 @@
    "pop": 24.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 969.5,
+   "y": 847.6
   },
   {
    "id": "6zFYqv1mOsgBRQbae3JJ9e",
@@ -7917,7 +9353,9 @@
    "pop": 79.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1027.3,
+   "y": 845.1
   },
   {
    "id": "23xqmJEN3oVxwzqtNIyR5m",
@@ -7928,7 +9366,9 @@
    "pop": 78.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1079.0,
+   "y": 846.1
   },
   {
    "id": "5XXDBFhkTp168rjq9IjAE3",
@@ -7939,7 +9379,9 @@
    "pop": 45.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1162.7,
+   "y": 828.8
   },
   {
    "id": "56x8mYvS3cyDGAi8N2FxbB",
@@ -7950,7 +9392,9 @@
    "pop": 67.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1185.7,
+   "y": 846.1
   },
   {
    "id": "0c09mxGbMHuFLpPJMY6JdA",
@@ -7961,7 +9405,9 @@
    "pop": 54.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1238.9,
+   "y": 846.3
   },
   {
    "id": "4aHpq3SeE9HiKNft9Bcj55",
@@ -7972,7 +9418,9 @@
    "pop": 32.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1294.7,
+   "y": 845.0
   },
   {
    "id": "4ahwO1RsHUkwEJawRahaLj",
@@ -7983,7 +9431,9 @@
    "pop": 45.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1354.9,
+   "y": 841.0
   },
   {
    "id": "3PzqP5IkpLhlSdZLh7jwPn",
@@ -7994,7 +9444,9 @@
    "pop": 46.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1435.9,
+   "y": 825.3
   },
   {
    "id": "6CKGpi9bhf2T7bapMfXl5m",
@@ -8005,7 +9457,9 @@
    "pop": 39.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1455.2,
+   "y": 844.8
   },
   {
    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
@@ -8016,7 +9470,9 @@
    "pop": 92.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 1537.3,
+   "y": 828.4
   },
   {
    "id": "7nzSoJISlVJsn7O0yTeMOB",
@@ -8027,7 +9483,9 @@
    "pop": 69.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 88.6,
+   "y": 862.5
   },
   {
    "id": "41MozSoPIsD1dJM0CLPjZF",
@@ -8038,7 +9496,9 @@
    "pop": 79.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 150.0,
+   "y": 858.0
   },
   {
    "id": "0NGAZxHanS9e0iNHpR8f2W",
@@ -8049,7 +9509,9 @@
    "pop": 84.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 208.0,
+   "y": 855.4
   },
   {
    "id": "1IueXOQyABrMOprrzwQJWN",
@@ -8060,7 +9522,9 @@
    "pop": 66.0,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 223.4,
+   "y": 877.1
   },
   {
    "id": "3GOI8AbB8KMYk20rWy38X5",
@@ -8071,7 +9535,9 @@
    "pop": 54.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 294.0,
+   "y": 867.3
   },
   {
    "id": "51BZWZTWqI7GjrgHw3Wvuw",
@@ -8082,7 +9548,9 @@
    "pop": 37.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 329.5,
+   "y": 877.5
   },
   {
    "id": "3Ojy8YhBELAnRuNYRK55uH",
@@ -8093,7 +9561,9 @@
    "pop": 18.5,
    "sources": [
     "spotify"
-   ]
+   ],
+   "x": 402.3,
+   "y": 866.4
   },
   {
    "id": "youtube:lonown",
@@ -8104,7 +9574,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 462.7,
+   "y": 862.5
   },
   {
    "id": "youtube:ncts",
@@ -8115,7 +9587,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 520.9,
+   "y": 859.7
   },
   {
    "id": "youtube:wing",
@@ -8126,7 +9600,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 559.8,
+   "y": 868.0
   },
   {
    "id": "youtube:improver",
@@ -8137,7 +9613,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 633.4,
+   "y": 856.5
   },
   {
    "id": "youtube:bennett",
@@ -8148,7 +9626,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 670.9,
+   "y": 865.6
   },
   {
    "id": "youtube:vahtang",
@@ -8159,7 +9639,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 735.7,
+   "y": 859.1
   },
   {
    "id": "youtube:wayanaka",
@@ -8170,7 +9652,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 781.3,
+   "y": 863.6
   },
   {
    "id": "youtube:fiona-apple",
@@ -8181,7 +9665,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 824.2,
+   "y": 869.6
   },
   {
    "id": "youtube:lady-gaga",
@@ -8192,7 +9678,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 891.0,
+   "y": 861.9
   },
   {
    "id": "youtube:david-mccallum",
@@ -8203,7 +9691,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 931.5,
+   "y": 869.3
   },
   {
    "id": "youtube:oratnitza",
@@ -8214,7 +9704,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 980.6,
+   "y": 871.8
   },
   {
    "id": "youtube:billy-talent",
@@ -8225,7 +9717,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1056.6,
+   "y": 858.9
   },
   {
    "id": "youtube:igorrr",
@@ -8236,7 +9730,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1095.5,
+   "y": 867.2
   },
   {
    "id": "youtube:her-last-sight",
@@ -8247,7 +9743,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1159.8,
+   "y": 861.0
   },
   {
    "id": "youtube:rozi-plain",
@@ -8258,7 +9756,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1221.1,
+   "y": 856.5
   },
   {
    "id": "youtube:pixa",
@@ -8269,7 +9769,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1269.5,
+   "y": 859.3
   },
   {
    "id": "youtube:shakira",
@@ -8280,7 +9782,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1289.8,
+   "y": 878.3
   },
   {
    "id": "youtube:steppenwolf",
@@ -8291,7 +9795,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1344.2,
+   "y": 877.7
   },
   {
    "id": "youtube:elmer-bernstein",
@@ -8302,7 +9808,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1425.9,
+   "y": 861.6
   },
   {
    "id": "youtube:usher",
@@ -8313,7 +9821,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1465.4,
+   "y": 869.5
   },
   {
    "id": "youtube:the-black-keys",
@@ -8324,7 +9834,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1539.4,
+   "y": 857.8
   },
   {
    "id": "youtube:jet",
@@ -8335,7 +9847,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 92.6,
+   "y": 890.8
   },
   {
    "id": "youtube:jose-mari-chan",
@@ -8346,7 +9860,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 131.1,
+   "y": 899.4
   },
   {
    "id": "youtube:lemaitre",
@@ -8357,7 +9873,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 209.3,
+   "y": 885.1
   },
   {
    "id": "youtube:david-guetta",
@@ -8368,7 +9886,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 257.8,
+   "y": 888.0
   },
   {
    "id": "youtube:carlo-maria-giulini",
@@ -8379,7 +9899,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 290.8,
+   "y": 899.7
   },
   {
    "id": "youtube:valigarr-weeping",
@@ -8390,7 +9912,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 346.8,
+   "y": 898.2
   },
   {
    "id": "youtube:gabry-ponte",
@@ -8401,7 +9925,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 422.6,
+   "y": 885.4
   },
   {
    "id": "youtube:robin-schulz",
@@ -8412,7 +9938,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 467.6,
+   "y": 890.2
   },
   {
    "id": "youtube:mary-j.-blige",
@@ -8423,7 +9951,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 504.0,
+   "y": 899.9
   },
   {
    "id": "youtube:gnarls-barkley",
@@ -8434,7 +9964,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 557.1,
+   "y": 900.2
   },
   {
    "id": "youtube:c2c",
@@ -8445,7 +9977,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 603.0,
+   "y": 904.4
   },
   {
    "id": "youtube:portugal.-the-man",
@@ -8456,7 +9990,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 648.6,
+   "y": 908.9
   },
   {
    "id": "youtube:out-of-flux",
@@ -8467,7 +10003,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 714.3,
+   "y": 901.9
   },
   {
    "id": "youtube:abba",
@@ -8478,7 +10016,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 785.8,
+   "y": 891.6
   },
   {
    "id": "youtube:florence-+-the-machine",
@@ -8489,7 +10029,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 832.8,
+   "y": 895.2
   },
   {
    "id": "youtube:cyberpriest",
@@ -8500,7 +10042,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 868.0,
+   "y": 905.7
   },
   {
    "id": "youtube:dire-straits",
@@ -8511,7 +10055,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 951.3,
+   "y": 888.5
   },
   {
    "id": "youtube:a-ha",
@@ -8522,7 +10068,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1005.1,
+   "y": 888.3
   },
   {
    "id": "youtube:bognár-szilvia",
@@ -8533,7 +10081,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1024.8,
+   "y": 907.6
   },
   {
    "id": "youtube:at-the-gates",
@@ -8544,7 +10094,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1081.8,
+   "y": 905.6
   },
   {
    "id": "youtube:woods-of-ypres",
@@ -8555,7 +10107,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1131.1,
+   "y": 908.0
   },
   {
    "id": "youtube:5miinust",
@@ -8566,7 +10120,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1204.5,
+   "y": 896.5
   },
   {
    "id": "youtube:tulia",
@@ -8577,7 +10133,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1267.7,
+   "y": 890.9
   },
   {
    "id": "youtube:yes-yes-revolution",
@@ -8588,7 +10146,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1308.1,
+   "y": 898.4
   },
   {
    "id": "youtube:micah-ariss",
@@ -8599,7 +10159,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1356.3,
+   "y": 901.4
   },
   {
    "id": "youtube:sash!",
@@ -8610,7 +10172,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1433.5,
+   "y": 887.8
   },
   {
    "id": "youtube:stromae",
@@ -8621,7 +10185,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1465.5,
+   "y": 900.0
   },
   {
    "id": "youtube:alice-deejay",
@@ -8632,7 +10198,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 1513.0,
+   "y": 903.4
   },
   {
    "id": "youtube:john-frusciante",
@@ -8643,7 +10211,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 60.0,
+   "y": 940.0
   },
   {
    "id": "youtube:angine-de-poitrine",
@@ -8654,7 +10224,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 138.7,
+   "y": 925.6
   },
   {
    "id": "youtube:labyrinthus-stellarum",
@@ -8665,7 +10237,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 196.3,
+   "y": 923.2
   },
   {
    "id": "youtube:the-wellermen",
@@ -8676,7 +10250,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 252.0,
+   "y": 921.8
   },
   {
    "id": "youtube:rage-against-the-machine",
@@ -8687,7 +10263,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 296.6,
+   "y": 926.9
   },
   {
    "id": "youtube:dolák-saly-róbert",
@@ -8698,7 +10276,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 343.9,
+   "y": 930.4
   },
   {
    "id": "youtube:all-about-that-bass",
@@ -8709,7 +10289,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 409.4,
+   "y": 923.5
   },
   {
    "id": "youtube:the-avalanches",
@@ -8720,7 +10302,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 456.9,
+   "y": 926.9
   },
   {
    "id": "youtube:antti-paalanen",
@@ -8731,7 +10315,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 514.4,
+   "y": 924.6
   },
   {
    "id": "youtube:ale",
@@ -8742,7 +10328,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 571.7,
+   "y": 922.3
   },
   {
    "id": "youtube:ummet-ozcan",
@@ -8753,7 +10341,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 602.5,
+   "y": 935.3
   },
   {
    "id": "youtube:astrix",
@@ -8764,7 +10354,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 676.4,
+   "y": 923.6
   },
   {
    "id": "youtube:broken-by-the-scream",
@@ -8775,7 +10367,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 723.5,
+   "y": 927.2
   },
   {
    "id": "youtube:greta-van-fleet",
@@ -8786,7 +10380,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 780.3,
+   "y": 925.3
   },
   {
    "id": "youtube:queens-of-the-stone-age-/",
@@ -8797,7 +10393,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 819.8,
+   "y": 933.2
   },
   {
    "id": "youtube:teriyaki-boyz",
@@ -8808,7 +10406,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 877.6,
+   "y": 930.7
   },
   {
    "id": "youtube:goddard.",
@@ -8819,7 +10419,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 943.9,
+   "y": 923.3
   },
   {
    "id": "youtube:saymaxwell",
@@ -8830,7 +10432,9 @@
    "pop": 0.0,
    "sources": [
     "youtube"
-   ]
+   ],
+   "x": 994.8,
+   "y": 924.8
   }
  ],
  "edges": [
@@ -17803,7 +19407,7 @@
  "excluded_zero_track": 215,
  "meta": {
   "catalog_sha256": "294ae9e34fe2dbb8bd52433bffc7194d4642bc7201f4dac5220f7d9085c3b5c9",
-  "generated_at": "2026-10-06T18:24:26+00:00",
+  "generated_at": "2026-10-06T18:35:08+00:00",
   "generator": "music-catalog-viz"
  }
 }

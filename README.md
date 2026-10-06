@@ -8,7 +8,24 @@ worktree/agent/user sees the same thing after push/pull.
 state/catalog.json    # artists/tracks/aliases (source of truth)
 state/review.json     # unknown queue + pending merges
 state/snapshots/      # timestamped monitor diffs
+docs/graph.json       # generated Pages browser data (from state/catalog.json)
+docs/index.html       # generated Pages browser page (viewer, no artwork hosted)
+code/                 # submodule: music-catalog generator pinned to the built docs/
 ```
+
+Live visualisation: GitHub Pages serves `docs/` —
+`https://sandorkazi.github.io/music-catalog-masu/`
+(enable via `Settings → Pages → Deploy from branch → docs/`).
+Regenerate after catalog changes (from the code checkout):
+
+```bash
+bash ../music-catalog/scripts/publish-viz.sh         # render + commit docs/
+bash ../music-catalog/scripts/publish-viz.sh --check # exit 1 if docs/ went stale
+```
+
+Each export stamps `docs/graph.json → meta` (`catalog_sha256` +
+`generated_at`); the page header shows it, so staleness is visible
+and checkable without rebuilding.
 
 Sync from the code repo:
 

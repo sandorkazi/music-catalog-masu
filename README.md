@@ -1,6 +1,7 @@
 # music-catalog-masu (data)
 
-State for `git@github.com:sandorkazi/music-catalog.git`. Git-tracked so every
+Actual catalog data for the [`music-catalog` CLI](https://github.com/sandorkazi/music-catalog)
+(`git@github.com:sandorkazi/music-catalog.git`). Git-tracked so every
 worktree/agent/user sees the same thing after push/pull.
 
 ```text

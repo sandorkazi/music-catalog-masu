@@ -23,11 +23,13 @@ footer{color:#666;font-size:.8em;margin:1em 0 2em}
 <label>Min popularity <input id="f-pop" type="range" min="0" max="100" value="0"> <span id="f-pop-v">0</span></label>
 <label><input id="f-edges" type="checkbox" checked> edges</label>
 <label title="Re-run the force layout in your browser (slow on large graphs)"><input id="f-phys" type="checkbox"> physics</label>
+<button id="f-expand" title="Open every genre bubble">Expand all</button>
+<button id="f-collapse" title="Collapse back to genre bubbles">Collapse all</button>
 <button id="f-reset">Reset</button>
 </div>
 <div id="layout">
 <div id="network" role="application" aria-label="Artist similarity graph. Scroll to zoom, drag to pan."></div>
-<aside id="info"><h2>Artist info</h2><p>Hover a circle to preview, click to pin. Scroll to zoom, drag to pan. Layout is precomputed — tick physics to re-spread.</p></aside>
+<aside id="info"><h2>Artist info</h2><p>Artists start grouped in genre bubbles — click a bubble to open it. Hover a circle to preview, click to pin. Scroll to zoom, drag to pan. Layout is precomputed; tick physics to re-spread.</p></aside>
 </div>
 <footer>Metadata (names, counts) from the curated catalog in this repo (<code>state/catalog.json</code>). No audio, lyrics, or artwork hosted here. Mistake? File a takedown via the repo issues page.<br>Generated from the dataset in this repo — regenerate with <code>catalog viz --out-dir docs</code> whenever the catalog changes. Local preview needs http (`python3 -m http.server`) — opening via file:// blocks graph.json.</footer>
 <script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
@@ -54,6 +56,11 @@ function passFilters(n){
   return true;
 }
 function applyFilters(){
+  var filtering = document.getElementById("q").value.trim() !== "" ||
+    document.getElementById("f-source").value !== "" ||
+    document.getElementById("f-tracks").value !== "1" ||
+    document.getElementById("f-pop").value !== "0";
+  if(filtering) expandAll();
   var vis = ALL.nodes.filter(passFilters).map(function(n){return n.id;});
   var visSet = {}; vis.forEach(function(id){visSet[id]=true;});
   nodes.get().forEach(function(n){nodes.update({id:n.id,hidden:!visSet[n.id]});});
@@ -78,7 +85,31 @@ function clearHighlight(){
   nodes.get().forEach(function(n){nodes.update({id:n.id,opacity:1});});
   edges.get().forEach(function(e){edges.update({id:e.id,color:{opacity:1}});});
 }
-function showInfo(id){document.getElementById("info").innerHTML = infoHTML(ALL.byId[id]);}
+function showInfo(id){
+  if(String(id).indexOf("cluster:")===0){
+    var c = (ALL.clusters||[]).filter(function(x){return "cluster:"+x.id===id;})[0];
+    document.getElementById("info").innerHTML =
+      "<h2>"+escapeHTML(c.label)+"</h2><p>"+c.count+" artist(s) · click the bubble to open it</p>";
+    return;
+  }
+  document.getElementById("info").innerHTML = infoHTML(ALL.byId[id]);
+}
+function clusterColor(id){var h=0;var s="cluster-"+id;for(var i=0;i<s.length;i++){h=(h*31+s.charCodeAt(i))>>>0;}return "hsl("+(h%360)+", 60%, 70%)";}
+function openClusters(){return (ALL.clusters||[]).map(function(c){return "cluster:"+c.id;}).filter(function(cid){return network.findNode(cid).length>0;});}
+function expandAll(){openClusters().forEach(function(cid){network.openCluster(cid);});}
+function collapseAll(){
+  (ALL.clusters||[]).forEach(function(c){
+    if(c.id==="unknown") return; // no genre signal: members stay flat
+    if(c.count<2||network.findNode("cluster:"+c.id).length>0) return;
+    network.cluster({
+      joinCondition:function(n){return n.cl===c.id;},
+      clusterNodeProperties:{id:"cluster:"+c.id,label:c.label+" ("+c.count+")",shape:"dot",
+        size:16+Math.min(34,c.count),x:c.x,y:c.y,
+        color:{background:clusterColor(c.id),border:"#333"},
+        font:{size:16,face:"sans-serif",bold:true}}
+    });
+  });
+}
 fetch("graph.json").then(function(r){if(!r.ok)throw new Error(r.status);return r.json();}).then(function(g){
   ALL = g; ALL.byId = {};
   g.nodes.forEach(function(n){ALL.byId[n.id]=n;});
@@ -88,7 +119,7 @@ fetch("graph.json").then(function(r){if(!r.ok)throw new Error(r.status);return r
     document.getElementById("f-source").appendChild(o);
   });
   document.getElementById("counts").textContent =
-    g.nodes.length+" artists, "+g.edges.length+" similarity links ("+g.excluded_zero_track+" zero-track artists excluded). "+freshnessLine(g.meta||{});
+    g.nodes.length+" artists in "+(g.clusters||[]).length+" genre clusters, "+g.edges.length+" similarity links ("+g.excluded_zero_track+" zero-track artists excluded). "+freshnessLine(g.meta||{});
 function freshnessLine(meta){
   var bits = [];
   if(meta.generated_at) bits.push("updated "+meta.generated_at);
@@ -98,7 +129,7 @@ function freshnessLine(meta){
   var vNodes = g.nodes.map(function(n,i){
     return {id:n.id,label:n.acronym,title:escapeHTML(n.name)+" — "+n.tracks+" tracks",
       shape:"circle",color:{background:n.color,border:"#555"},value:10+n.tracks*8,
-      x:n.x,y:n.y,font:{size:14,face:"sans-serif"}};
+      x:n.x,y:n.y,cl:n.cluster,font:{size:14,face:"sans-serif"}};
   });
   var vEdges = g.edges.map(function(e,i){
     return {id:"e"+i,from:e.a,to:e.b,value:Math.max(0.2,1.2-e.dist),
@@ -117,7 +148,11 @@ function freshnessLine(meta){
   network.on("hoverNode",function(p){showInfo(p.node);highlight(p.node);network.focus(p.node,{scale:1.6,animation:{duration:400}});});
   network.on("blurNode",function(){if(!pinned)clearHighlight();});
   network.on("click",function(p){
-    if(p.nodes.length){pinned=p.nodes[0];showInfo(pinned);highlight(pinned);}
+    if(p.nodes.length){
+      var cid = String(p.nodes[0]);
+      if(cid.indexOf("cluster:")===0){showInfo(cid);network.openCluster(cid);return;}
+      pinned=p.nodes[0];showInfo(pinned);highlight(pinned);
+    }
     else{pinned=null;clearHighlight();}
   });
   document.getElementById("info").addEventListener("click",function(ev){
@@ -136,8 +171,11 @@ function freshnessLine(meta){
     document.getElementById("f-pop-v").textContent="0";
     document.getElementById("f-edges").checked=true;
     document.getElementById("f-phys").checked=false;
-    network.setOptions({physics:{enabled:false}});applyFilters();
+    network.setOptions({physics:{enabled:false}});applyFilters();collapseAll();
   });
+  document.getElementById("f-expand").addEventListener("click",function(){expandAll();});
+  document.getElementById("f-collapse").addEventListener("click",function(){collapseAll();});
+  collapseAll();
 }).catch(function(err){
   document.getElementById("counts").textContent =
     "Could not load graph.json ("+err+"). Serve this folder over http: python3 -m http.server";

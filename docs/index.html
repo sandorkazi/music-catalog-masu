@@ -21,14 +21,14 @@ footer{color:#666;font-size:.8em;margin:1em 0 2em}
 <label>Source <select id="f-source"><option value="">all</option></select></label>
 <label>Min tracks <select id="f-tracks"><option value="1">1+</option><option value="2">2+</option><option value="3">3+</option></select></label>
 <label>Min popularity <input id="f-pop" type="range" min="0" max="100" value="0"> <span id="f-pop-v">0</span></label>
-<label><input id="f-edges" type="checkbox" checked> edges</label>
+<label title="Show all similarity links (hidden until hover otherwise)"><input id="f-edges" type="checkbox"> edges</label>
 <button id="f-expand" title="Open every genre bubble">Expand all</button>
 <button id="f-collapse" title="Collapse back to genre bubbles">Collapse all</button>
 <button id="f-reset">Reset</button>
 </div>
 <div id="layout">
 <div id="network" role="application" aria-label="Artist similarity graph. Scroll to zoom, drag to pan."></div>
-<aside id="info"><h2>Artist info</h2><p>Artists start grouped in genre bubbles — click a bubble to open it. Hover a circle to preview, click to pin. Scroll to zoom, drag to pan. Positions are fixed: filters only fade out non-matches, nothing ever moves.</p></aside>
+<aside id="info"><h2>Artist info</h2><p>Artists start grouped in similarity bubbles (genre bubbles once tagged — node colors show genre, gray means untagged). Click a bubble to open it. Hover a circle to preview its links, click to pin. Scroll to zoom, drag to pan. Positions are fixed: filters only fade out non-matches, nothing ever moves.</p></aside>
 </div>
 <footer>Metadata (names, counts) from the curated catalog in this repo (<code>state/catalog.json</code>). No audio, lyrics, or artwork hosted here. Mistake? File a takedown via the repo issues page.<br>Generated from the dataset in this repo — regenerate with <code>catalog viz --out-dir docs</code> whenever the catalog changes. Local preview needs http (`python3 -m http.server`) — opening via file:// blocks graph.json.</footer>
 <script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
@@ -56,17 +56,18 @@ function passFilters(n){
 }
 var DIM = {}; // id -> true while filtered out (transparent + unclickable, never moved)
 var HL = null; // {nodes:{}, edges:{}} neighbourhood currently lit, or null
-var SHOW_E = true;
+var SHOW_E = false; // edges hidden until hover, or the edges box
 var HOVERED = null;
 function baseNodeOpacity(id){return (DIM[id]||(HL&&!HL.nodes[id]))?0.15:1;}
 function baseEdgeOpacity(e){return (!SHOW_E||DIM[e.a]||DIM[e.b]||(HL&&!HL.edges[e.id]))?0.08:1;}
+function baseEdgeHidden(e){return !SHOW_E&&!(HL&&HL.edges[e.id]);}
 function paintNodes(ids){
   nodes.update(ids.map(function(id){return {id:id,opacity:baseNodeOpacity(id)};}));
 }
 function paintEdges(ids){
   edges.update(ids.map(function(id){
     var e = ALL.edges.filter(function(x){return x.id===id;})[0];
-    return {id:id,color:{opacity:baseEdgeOpacity(e)}};
+    return {id:id,color:{opacity:baseEdgeOpacity(e)},hidden:baseEdgeHidden(e)};
   }));
 }
 function allNodeIds(){return ALL.nodes.map(function(n){return n.id;});}
@@ -125,7 +126,6 @@ function openClusters(){return (ALL.clusters||[]).map(function(c){return "cluste
 function expandAll(){openClusters().forEach(function(cid){network.openCluster(cid);});}
 function collapseAll(){
   (ALL.clusters||[]).forEach(function(c){
-    if(c.id==="unknown") return; // no genre signal: members stay flat
     if(c.count<2||network.findNode("cluster:"+c.id).length>0) return;
     network.cluster({
       joinCondition:function(n){return n.cl===c.id;},
@@ -159,7 +159,7 @@ function freshnessLine(meta){
   });
   var vEdges = g.edges.map(function(e,i){
     return {id:"e"+i,from:e.a,to:e.b,value:Math.max(0.2,1.2-e.dist),
-      color:{opacity:1},smooth:false};
+      color:{opacity:1},smooth:false,hidden:!document.getElementById("f-edges").checked};
   });
   g.edges.forEach(function(e,i){e.id="e"+i;});
   nodes = new vis.DataSet(vNodes); edges = new vis.DataSet(vEdges);
@@ -197,7 +197,7 @@ function freshnessLine(meta){
     document.getElementById("q").value="";document.getElementById("f-source").value="";
     document.getElementById("f-tracks").value="1";document.getElementById("f-pop").value="0";
     document.getElementById("f-pop-v").textContent="0";
-    document.getElementById("f-edges").checked=true;
+    document.getElementById("f-edges").checked=false;
     applyFilters();collapseAll();
   });
   document.getElementById("f-expand").addEventListener("click",function(){expandAll();});

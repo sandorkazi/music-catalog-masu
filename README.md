@@ -13,9 +13,12 @@ docs/index.html       # generated Pages browser page (viewer, no artwork hosted)
 code/                 # submodule: music-catalog generator pinned to the built docs/
 ```
 
-Live visualisation: GitHub Pages serves `docs/` —
-`https://sandorkazi.github.io/music-catalog-masu/`
-(enable via `Settings → Pages → Deploy from branch → docs/`).
+Live visualisation: GitHub Pages serves one combined site from the
+`gh-pages` branch — `/` is main's browser, `/develop/` is develop's
+(`https://sandorkazi.github.io/music-catalog-masu/` and `.../develop/`).
+`Settings → Pages → Deploy from branch → gh-pages / (root)`, rebuilt
+automatically by `.github/workflows/pages.yml` on every push to
+`main`/`develop` that touches `docs/`.
 Regenerate after catalog changes (from the code checkout):
 
 ```bash

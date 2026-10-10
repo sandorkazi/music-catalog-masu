@@ -11723,6 +11723,17 @@
       "instruments": [],
       "tag_source": null,
       "tagged_at": null
+    },
+    {
+      "id": "youtube:wim-mertens",
+      "name": "Wim Mertens",
+      "aliases": [],
+      "status": "ok",
+      "genres": [],
+      "subgenres": [],
+      "instruments": [],
+      "tag_source": null,
+      "tagged_at": null
     }
   ],
   "tracks": [
@@ -31875,7 +31886,9 @@
       "added_at": null,
       "url": "https://www.youtube.com/watch?v=XkOEaej5mHA",
       "video_title": "Váradi Roma Café - Boldog vagyok én",
-      "channel": "Váradi Roma Café - Topic"
+      "channel": "Váradi Roma Café - Topic",
+      "genres": [],
+      "instruments": []
     },
     {
       "id": "youtube:D4kHh_E1XS4",
@@ -31889,7 +31902,9 @@
       "added_at": null,
       "url": "https://www.youtube.com/watch?v=D4kHh_E1XS4",
       "video_title": "NIKOLINA - No More Lies",
-      "channel": "NIKOLINA (DE) - Topic"
+      "channel": "NIKOLINA (DE) - Topic",
+      "genres": [],
+      "instruments": []
     },
     {
       "id": "youtube:KSvUSHmg-LQ",
@@ -31903,7 +31918,9 @@
       "added_at": null,
       "url": "https://www.youtube.com/watch?v=KSvUSHmg-LQ",
       "video_title": "satirin - YABLOCHKO FUNK",
-      "channel": "satirin"
+      "channel": "satirin",
+      "genres": [],
+      "instruments": []
     },
     {
       "id": "youtube:_E4CQJsLHro",
@@ -31917,7 +31934,9 @@
       "added_at": null,
       "url": "https://www.youtube.com/watch?v=_E4CQJsLHro",
       "video_title": "satirin - BAYU BAYUSHKI ULTRAFUNK",
-      "channel": "Airwave Vibes"
+      "channel": "Airwave Vibes",
+      "genres": [],
+      "instruments": []
     },
     {
       "id": "youtube:CsrsR_sC2jE",
@@ -31931,7 +31950,9 @@
       "added_at": null,
       "url": "https://www.youtube.com/watch?v=CsrsR_sC2jE",
       "video_title": "EVO - MATUSHKA ULTRAFUNK",
-      "channel": "TrapMusicHDTV"
+      "channel": "TrapMusicHDTV",
+      "genres": [],
+      "instruments": []
     },
     {
       "id": "youtube:fQduifD5mtY",
@@ -31945,7 +31966,65 @@
       "added_at": null,
       "url": "https://www.youtube.com/watch?v=fQduifD5mtY",
       "video_title": "EVO - SLAVA FUNK!",
-      "channel": "AEDERGRIND MUSIC"
+      "channel": "AEDERGRIND MUSIC",
+      "genres": [],
+      "instruments": []
+    },
+    {
+      "id": "youtube:bYt6Lx-uXwU",
+      "artist_id": "youtube:wim-mertens",
+      "title": "Struggle for Pleasure",
+      "source": "youtube",
+      "popularity": 0,
+      "features": {},
+      "pinned": false,
+      "album": null,
+      "added_at": null,
+      "url": "https://www.youtube.com/watch?v=bYt6Lx-uXwU",
+      "video_title": "Wim Mertens - Struggle for Pleasure",
+      "channel": "Wim Mertens Official"
+    },
+    {
+      "id": "youtube:1joKCo7RaW4",
+      "artist_id": "youtube:wim-mertens",
+      "title": "Close Cover",
+      "source": "youtube",
+      "popularity": 0,
+      "features": {},
+      "pinned": false,
+      "album": null,
+      "added_at": null,
+      "url": "https://www.youtube.com/watch?v=1joKCo7RaW4",
+      "video_title": "Wim Mertens - Close Cover",
+      "channel": "Wim Mertens Official"
+    },
+    {
+      "id": "youtube:YjbMolCKCYg",
+      "artist_id": "youtube:energy-52",
+      "title": "Café Del Mar",
+      "source": "youtube",
+      "popularity": 0,
+      "features": {},
+      "pinned": false,
+      "album": null,
+      "added_at": null,
+      "url": "https://www.youtube.com/watch?v=YjbMolCKCYg",
+      "video_title": "Energy 52 - Café Del Mar (DJ Kid Paul Mix)",
+      "channel": "Energy 52"
+    },
+    {
+      "id": "youtube:mN413VatODk",
+      "artist_id": "youtube:energy-52",
+      "title": "Weak",
+      "source": "youtube",
+      "popularity": 0,
+      "features": {},
+      "pinned": false,
+      "album": null,
+      "added_at": null,
+      "url": "https://www.youtube.com/watch?v=mN413VatODk",
+      "video_title": "Energy 52 - Weak",
+      "channel": "MUSIC AREA"
     }
   ],
   "version": 2
